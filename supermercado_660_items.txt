@@ -1,0 +1,660 @@
+ITEM 1 | Galleta rellena 250 g | Snacks y Dulces
+ITEM 2 | Filete de tilapia 0.5 kg | Carnes y Pescados
+ITEM 3 | Hamburguesa de res 400 g | Congelados
+ITEM 4 | Acondicionador 500 ml | Higiene y Cuidado Personal
+ITEM 5 | Crema de leche 750 ml | Lácteos y Huevos
+ITEM 6 | Agua saborizada 900 ml | Bebidas
+ITEM 7 | Papa chola 0.25 kg | Frutas y Verduras
+ITEM 8 | Brócoli 3 un | Frutas y Verduras
+ITEM 9 | Fórmula infantil 750 g | Bebé y Mascotas
+ITEM 10 | Trapo microfibra 10 un | Limpieza del Hogar
+ITEM 11 | Toallas higiénicas 200 un | Higiene y Cuidado Personal
+ITEM 12 | Alitas de pollo 0.25 kg | Carnes y Pescados
+ITEM 13 | Banano mano 5 un | Frutas y Verduras
+ITEM 14 | Pan integral 400 g | Panadería y Cereales
+ITEM 15 | Cepillo dental 4 un | Higiene y Cuidado Personal
+ITEM 16 | Maní salado 400 g | Snacks y Dulces
+ITEM 17 | Queso fresco 300 g | Lácteos y Huevos
+ITEM 18 | Cereal de maíz 750 g | Panadería y Cereales
+ITEM 19 | Energética 900 ml | Bebidas
+ITEM 20 | Mostaza 250 g | Abarrotes
+ITEM 21 | Levadura seca 500 g | Abarrotes
+ITEM 22 | Concentrado perro 0.25 kg | Bebé y Mascotas
+ITEM 23 | Jugo néctar 400 ml | Bebidas
+ITEM 24 | Palomitas para microondas 750 g | Snacks y Dulces
+ITEM 25 | Esponja multiuso 5 un | Limpieza del Hogar
+ITEM 26 | Salsa de ají 200 g | Abarrotes
+ITEM 27 | Bebida isotónica 900 ml | Bebidas
+ITEM 28 | Crema corporal 750 ml | Higiene y Cuidado Personal
+ITEM 29 | Protector solar 750 ml | Higiene y Cuidado Personal
+ITEM 30 | Mermelada de fresa 250 g | Abarrotes
+ITEM 31 | Leche descremada 1.5 L | Lácteos y Huevos
+ITEM 32 | Tortillas de trigo 250 g | Panadería y Cereales
+ITEM 33 | Toallitas húmedas 20 un | Bebé y Mascotas
+ITEM 34 | Nachos 900 g | Snacks y Dulces
+ITEM 35 | Gaseosa cola 500 ml | Bebidas
+ITEM 36 | Nuggets de pollo 200 g | Congelados
+ITEM 37 | Costilla de res 0.25 kg | Carnes y Pescados
+ITEM 38 | Harina de trigo 0.5 kg | Abarrotes
+ITEM 39 | Chicle 3 un | Snacks y Dulces
+ITEM 40 | Garbanzos 0.5 kg | Abarrotes
+ITEM 41 | Detergente líquido 200 L | Limpieza del Hogar
+ITEM 42 | Tomate riñón 20 un | Frutas y Verduras
+ITEM 43 | Gaseosa limón 300 ml | Bebidas
+ITEM 44 | Pilas AAA 1 un | Ferretería ligera
+ITEM 45 | Pechuga de pollo 0.25 kg | Carnes y Pescados
+ITEM 46 | Lenteja 0.25 kg | Abarrotes
+ITEM 47 | Chocolate barra 400 g | Snacks y Dulces
+ITEM 48 | Ajo cabeza 2 un | Frutas y Verduras
+ITEM 49 | Cilantro manojo | Frutas y Verduras
+ITEM 50 | Mantequilla 300 g | Lácteos y Huevos
+ITEM 51 | Agua sin gas 500 L | Bebidas
+ITEM 52 | Lechuga 200 un | Frutas y Verduras
+ITEM 53 | Margarina 900 g | Lácteos y Huevos
+ITEM 54 | Azúcar 1 kg | Abarrotes
+ITEM 55 | Caramelo surtido 300 g | Snacks y Dulces
+ITEM 56 | Cloro 1 L | Limpieza del Hogar
+ITEM 57 | Comida húmeda perro 400 g | Bebé y Mascotas
+ITEM 58 | Pan de molde blanco 500 g | Panadería y Cereales
+ITEM 59 | Chuleta de cerdo 1 kg | Carnes y Pescados
+ITEM 60 | Shampoo 300 ml | Higiene y Cuidado Personal
+ITEM 61 | Cacao en polvo 200 g | Abarrotes
+ITEM 62 | Camarón mediano 1 kg | Carnes y Pescados
+ITEM 63 | Crema dental 750 g | Higiene y Cuidado Personal
+ITEM 64 | Galleta de avena 200 g | Panadería y Cereales
+ITEM 65 | Vinagre blanco 200 L | Abarrotes
+ITEM 66 | Gel de baño 900 ml | Higiene y Cuidado Personal
+ITEM 67 | Guantes de limpieza 10 par | Limpieza del Hogar
+ITEM 68 | Jabón de tocador 250 g | Higiene y Cuidado Personal
+ITEM 69 | Bolsas basura 4 un | Limpieza del Hogar
+ITEM 70 | Aceite vegetal 500 L | Abarrotes
+ITEM 71 | Fósforos 2 un | Ferretería ligera
+ITEM 72 | Perejil manojo | Frutas y Verduras
+ITEM 73 | Papel higiénico 750 un | Higiene y Cuidado Personal
+ITEM 74 | Sardina en aceite 300 g | Abarrotes
+ITEM 75 | Cebolla paiteña 4 un | Frutas y Verduras
+ITEM 76 | Papa a la francesa 300 g | Congelados
+ITEM 77 | Chocolate de mesa 200 g | Abarrotes
+ITEM 78 | Rasuradora 1 un | Higiene y Cuidado Personal
+ITEM 79 | Mezcla de verduras congeladas 300 g | Congelados
+ITEM 80 | Kumis 300 ml | Lácteos y Huevos
+ITEM 81 | Limón sutil 1 un | Frutas y Verduras
+ITEM 82 | Helado vainilla 0.5 L | Congelados
+ITEM 83 | Pilas AA 2 un | Ferretería ligera
+ITEM 84 | Café molido 900 g | Abarrotes
+ITEM 85 | Pimiento verde 5 un | Frutas y Verduras
+ITEM 86 | Yogur natural 900 g | Lácteos y Huevos
+ITEM 87 | Leche entera 0.5 L | Lácteos y Huevos
+ITEM 88 | Agua con gas 250 L | Bebidas
+ITEM 89 | Avena 250 g | Abarrotes
+ITEM 90 | Naranja 4 un | Frutas y Verduras
+ITEM 91 | Suavizante 2 L | Limpieza del Hogar
+ITEM 92 | Maíz dulce enlatado 500 g | Abarrotes
+ITEM 93 | Granola 500 g | Panadería y Cereales
+ITEM 94 | Arena para gato 2 kg | Bebé y Mascotas
+ITEM 95 | Salsa de tomate 200 g | Abarrotes
+ITEM 96 | Panela granulada 250 g | Abarrotes
+ITEM 97 | Atún en agua 500 g | Abarrotes
+ITEM 98 | Queso mozzarella 400 g | Lácteos y Huevos
+ITEM 99 | Desodorante roll-on 500 ml | Higiene y Cuidado Personal
+ITEM 100 | Galleta salada 500 g | Abarrotes
+ITEM 101 | Zanahoria 1 un | Frutas y Verduras
+ITEM 102 | Limpiavidrios 0.5 ml | Limpieza del Hogar
+ITEM 103 | Aguacate 500 un | Frutas y Verduras
+ITEM 104 | Desinfectante 3 L | Limpieza del Hogar
+ITEM 105 | Galleta dulce 400 g | Abarrotes
+ITEM 106 | Pera 3 un | Frutas y Verduras
+ITEM 107 | Toalla de papel 1 un | Limpieza del Hogar
+ITEM 108 | Fideo spaghetti 750 g | Abarrotes
+ITEM 109 | Lavavajillas 3 ml | Limpieza del Hogar
+ITEM 110 | Foco LED 3 W | Ferretería ligera
+ITEM 111 | Atún fresco 1 kg | Carnes y Pescados
+ITEM 112 | Té listo 250 ml | Bebidas
+ITEM 113 | Sal yodada 0.5 kg | Abarrotes
+ITEM 114 | Bizcocho 750 g | Panadería y Cereales
+ITEM 115 | Cinta adhesiva 5 m | Ferretería ligera
+ITEM 116 | Carne molida res 0.25 kg | Carnes y Pescados
+ITEM 117 | Cerveza lata 250 ml | Bebidas
+ITEM 118 | Arroz blanco 2 kg | Abarrotes
+ITEM 119 | Detergente en polvo 2 kg | Limpieza del Hogar
+ITEM 120 | Pañales etapa 1 un | Bebé y Mascotas
+ITEM 121 | Miel de abeja 400 g | Abarrotes
+ITEM 122 | Mayonesa 750 g | Abarrotes
+ITEM 123 | Huevos AA docena | Lácteos y Huevos
+ITEM 124 | Manzana roja 1 un | Frutas y Verduras
+ITEM 125 | Papas fritas 750 g | Snacks y Dulces
+ITEM 126 | Pepino 1 un | Frutas y Verduras
+ITEM 127 | Salsa de ají 300 g | Abarrotes
+ITEM 128 | Avena 300 g | Abarrotes
+ITEM 129 | Gel de baño 1000 ml | Higiene y Cuidado Personal
+ITEM 130 | Café molido 400 g | Abarrotes
+ITEM 131 | Toallitas húmedas 20 un | Bebé y Mascotas
+ITEM 132 | Hamburguesa de res 500 g | Congelados
+ITEM 133 | Agua sin gas 400 L | Bebidas
+ITEM 134 | Energética 400 ml | Bebidas
+ITEM 135 | Guantes de limpieza 10 par | Limpieza del Hogar
+ITEM 136 | Costilla de res 0.5 kg | Carnes y Pescados
+ITEM 137 | Harina de trigo 1 kg | Abarrotes
+ITEM 138 | Comida húmeda perro 400 g | Bebé y Mascotas
+ITEM 139 | Atún fresco 0.25 kg | Carnes y Pescados
+ITEM 140 | Caramelo surtido 300 g | Snacks y Dulces
+ITEM 141 | Cebolla paiteña 1 un | Frutas y Verduras
+ITEM 142 | Gaseosa cola 300 ml | Bebidas
+ITEM 143 | Jugo néctar 300 ml | Bebidas
+ITEM 144 | Lavavajillas 3 ml | Limpieza del Hogar
+ITEM 145 | Pimiento verde 5 un | Frutas y Verduras
+ITEM 146 | Alitas de pollo 0.5 kg | Carnes y Pescados
+ITEM 147 | Cilantro manojo | Frutas y Verduras
+ITEM 148 | Nuggets de pollo 750 g | Congelados
+ITEM 149 | Yogur natural 300 g | Lácteos y Huevos
+ITEM 150 | Crema dental 750 g | Higiene y Cuidado Personal
+ITEM 151 | Salsa de tomate 250 g | Abarrotes
+ITEM 152 | Concentrado perro 0.25 kg | Bebé y Mascotas
+ITEM 153 | Chicle 3 un | Snacks y Dulces
+ITEM 154 | Bizcocho 400 g | Panadería y Cereales
+ITEM 155 | Brócoli 4 un | Frutas y Verduras
+ITEM 156 | Crema corporal 400 ml | Higiene y Cuidado Personal
+ITEM 157 | Desodorante roll-on 750 ml | Higiene y Cuidado Personal
+ITEM 158 | Levadura seca 200 g | Abarrotes
+ITEM 159 | Leche descremada 0.5 L | Lácteos y Huevos
+ITEM 160 | Garbanzos 2 kg | Abarrotes
+ITEM 161 | Toalla de papel 4 un | Limpieza del Hogar
+ITEM 162 | Bebida isotónica 400 ml | Bebidas
+ITEM 163 | Papel higiénico 900 un | Higiene y Cuidado Personal
+ITEM 164 | Naranja 3 un | Frutas y Verduras
+ITEM 165 | Cloro 3 L | Limpieza del Hogar
+ITEM 166 | Granola 500 g | Panadería y Cereales
+ITEM 167 | Jabón de tocador 200 g | Higiene y Cuidado Personal
+ITEM 168 | Chocolate barra 400 g | Snacks y Dulces
+ITEM 169 | Lechuga 750 un | Frutas y Verduras
+ITEM 170 | Pilas AAA 1 un | Ferretería ligera
+ITEM 171 | Galleta dulce 300 g | Abarrotes
+ITEM 172 | Aceite vegetal 500 L | Abarrotes
+ITEM 173 | Galleta rellena 250 g | Snacks y Dulces
+ITEM 174 | Carne molida res 0.25 kg | Carnes y Pescados
+ITEM 175 | Limón sutil 1 un | Frutas y Verduras
+ITEM 176 | Azúcar 0.25 kg | Abarrotes
+ITEM 177 | Huevos AA docena | Lácteos y Huevos
+ITEM 178 | Banano mano 10 un | Frutas y Verduras
+ITEM 179 | Nachos 200 g | Snacks y Dulces
+ITEM 180 | Detergente líquido 200 L | Limpieza del Hogar
+ITEM 181 | Perejil manojo | Frutas y Verduras
+ITEM 182 | Helado vainilla 1.5 L | Congelados
+ITEM 183 | Miel de abeja 250 g | Abarrotes
+ITEM 184 | Vinagre blanco 750 L | Abarrotes
+ITEM 185 | Queso mozzarella 200 g | Lácteos y Huevos
+ITEM 186 | Agua saborizada 500 ml | Bebidas
+ITEM 187 | Pilas AA 4 un | Ferretería ligera
+ITEM 188 | Agua con gas 750 L | Bebidas
+ITEM 189 | Galleta salada 900 g | Abarrotes
+ITEM 190 | Maní salado 400 g | Snacks y Dulces
+ITEM 191 | Fideo spaghetti 400 g | Abarrotes
+ITEM 192 | Cepillo dental 2 un | Higiene y Cuidado Personal
+ITEM 193 | Arroz blanco 1 kg | Abarrotes
+ITEM 194 | Protector solar 750 ml | Higiene y Cuidado Personal
+ITEM 195 | Zanahoria 3 un | Frutas y Verduras
+ITEM 196 | Queso fresco 250 g | Lácteos y Huevos
+ITEM 197 | Maíz dulce enlatado 300 g | Abarrotes
+ITEM 198 | Mayonesa 400 g | Abarrotes
+ITEM 199 | Pechuga de pollo 0.5 kg | Carnes y Pescados
+ITEM 200 | Pan integral 900 g | Panadería y Cereales
+ITEM 201 | Cereal de maíz 500 g | Panadería y Cereales
+ITEM 202 | Camarón mediano 0.5 kg | Carnes y Pescados
+ITEM 203 | Mantequilla 500 g | Lácteos y Huevos
+ITEM 204 | Mostaza 250 g | Abarrotes
+ITEM 205 | Desinfectante 0.5 L | Limpieza del Hogar
+ITEM 206 | Pan de molde blanco 300 g | Panadería y Cereales
+ITEM 207 | Shampoo 200 ml | Higiene y Cuidado Personal
+ITEM 208 | Filete de tilapia 1 kg | Carnes y Pescados
+ITEM 209 | Tomate riñón 10 un | Frutas y Verduras
+ITEM 210 | Panela granulada 500 g | Abarrotes
+ITEM 211 | Gaseosa limón 900 ml | Bebidas
+ITEM 212 | Trapo microfibra 5 un | Limpieza del Hogar
+ITEM 213 | Detergente en polvo 1 kg | Limpieza del Hogar
+ITEM 214 | Suavizante 1.5 L | Limpieza del Hogar
+ITEM 215 | Bolsas basura 2 un | Limpieza del Hogar
+ITEM 216 | Fósforos 4 un | Ferretería ligera
+ITEM 217 | Cacao en polvo 400 g | Abarrotes
+ITEM 218 | Té listo 400 ml | Bebidas
+ITEM 219 | Lenteja 0.5 kg | Abarrotes
+ITEM 220 | Acondicionador 750 ml | Higiene y Cuidado Personal
+ITEM 221 | Aguacate 250 un | Frutas y Verduras
+ITEM 222 | Limpiavidrios 1.5 ml | Limpieza del Hogar
+ITEM 223 | Palomitas para microondas 750 g | Snacks y Dulces
+ITEM 224 | Atún en agua 500 g | Abarrotes
+ITEM 225 | Rasuradora 1 un | Higiene y Cuidado Personal
+ITEM 226 | Cinta adhesiva 20 m | Ferretería ligera
+ITEM 227 | Esponja multiuso 10 un | Limpieza del Hogar
+ITEM 228 | Foco LED 1.5 W | Ferretería ligera
+ITEM 229 | Fórmula infantil 200 g | Bebé y Mascotas
+ITEM 230 | Papa a la francesa 500 g | Congelados
+ITEM 231 | Pañales etapa 2 un | Bebé y Mascotas
+ITEM 232 | Margarina 500 g | Lácteos y Huevos
+ITEM 233 | Leche entera 0.5 L | Lácteos y Huevos
+ITEM 234 | Papa chola 2 kg | Frutas y Verduras
+ITEM 235 | Mezcla de verduras congeladas 250 g | Congelados
+ITEM 236 | Toallas higiénicas 300 un | Higiene y Cuidado Personal
+ITEM 237 | Chocolate de mesa 250 g | Abarrotes
+ITEM 238 | Cerveza lata 300 ml | Bebidas
+ITEM 239 | Crema de leche 900 ml | Lácteos y Huevos
+ITEM 240 | Papas fritas 250 g | Snacks y Dulces
+ITEM 241 | Manzana roja 2 un | Frutas y Verduras
+ITEM 242 | Galleta de avena 900 g | Panadería y Cereales
+ITEM 243 | Kumis 900 ml | Lácteos y Huevos
+ITEM 244 | Sardina en aceite 200 g | Abarrotes
+ITEM 245 | Arena para gato 0.25 kg | Bebé y Mascotas
+ITEM 246 | Pera 3 un | Frutas y Verduras
+ITEM 247 | Pepino 4 un | Frutas y Verduras
+ITEM 248 | Mermelada de fresa 300 g | Abarrotes
+ITEM 249 | Chuleta de cerdo 0.25 kg | Carnes y Pescados
+ITEM 250 | Sal yodada 1 kg | Abarrotes
+ITEM 251 | Tortillas de trigo 900 g | Panadería y Cereales
+ITEM 252 | Ajo cabeza 4 un | Frutas y Verduras
+ITEM 253 | Cinta adhesiva 5 m | Ferretería ligera
+ITEM 254 | Galleta rellena 750 g | Snacks y Dulces
+ITEM 255 | Zanahoria 4 un | Frutas y Verduras
+ITEM 256 | Cebolla paiteña 4 un | Frutas y Verduras
+ITEM 257 | Miel de abeja 250 g | Abarrotes
+ITEM 258 | Nachos 200 g | Snacks y Dulces
+ITEM 259 | Naranja 2 un | Frutas y Verduras
+ITEM 260 | Margarina 500 g | Lácteos y Huevos
+ITEM 261 | Aguacate 250 un | Frutas y Verduras
+ITEM 262 | Ajo cabeza 4 un | Frutas y Verduras
+ITEM 263 | Gaseosa cola 750 ml | Bebidas
+ITEM 264 | Pañales etapa 2 un | Bebé y Mascotas
+ITEM 265 | Vinagre blanco 750 L | Abarrotes
+ITEM 266 | Detergente en polvo 1 kg | Limpieza del Hogar
+ITEM 267 | Gel de baño 900 ml | Higiene y Cuidado Personal
+ITEM 268 | Bizcocho 200 g | Panadería y Cereales
+ITEM 269 | Chicle 2 un | Snacks y Dulces
+ITEM 270 | Cepillo dental 3 un | Higiene y Cuidado Personal
+ITEM 271 | Manzana roja 3 un | Frutas y Verduras
+ITEM 272 | Mermelada de fresa 400 g | Abarrotes
+ITEM 273 | Pepino 3 un | Frutas y Verduras
+ITEM 274 | Toallas higiénicas 300 un | Higiene y Cuidado Personal
+ITEM 275 | Guantes de limpieza 10 par | Limpieza del Hogar
+ITEM 276 | Maíz dulce enlatado 900 g | Abarrotes
+ITEM 277 | Cilantro manojo | Frutas y Verduras
+ITEM 278 | Kumis 900 ml | Lácteos y Huevos
+ITEM 279 | Desinfectante 0.5 L | Limpieza del Hogar
+ITEM 280 | Bebida isotónica 200 ml | Bebidas
+ITEM 281 | Pan de molde blanco 300 g | Panadería y Cereales
+ITEM 282 | Galleta salada 900 g | Abarrotes
+ITEM 283 | Panela granulada 750 g | Abarrotes
+ITEM 284 | Azúcar 0.5 kg | Abarrotes
+ITEM 285 | Palomitas para microondas 400 g | Snacks y Dulces
+ITEM 286 | Agua con gas 300 L | Bebidas
+ITEM 287 | Cacao en polvo 300 g | Abarrotes
+ITEM 288 | Galleta dulce 400 g | Abarrotes
+ITEM 289 | Caramelo surtido 300 g | Snacks y Dulces
+ITEM 290 | Chuleta de cerdo 0.25 kg | Carnes y Pescados
+ITEM 291 | Fórmula infantil 900 g | Bebé y Mascotas
+ITEM 292 | Crema corporal 900 ml | Higiene y Cuidado Personal
+ITEM 293 | Tomate riñón 20 un | Frutas y Verduras
+ITEM 294 | Chocolate barra 750 g | Snacks y Dulces
+ITEM 295 | Leche entera 1 L | Lácteos y Huevos
+ITEM 296 | Arena para gato 0.25 kg | Bebé y Mascotas
+ITEM 297 | Salsa de ají 750 g | Abarrotes
+ITEM 298 | Toalla de papel 1 un | Limpieza del Hogar
+ITEM 299 | Mantequilla 900 g | Lácteos y Huevos
+ITEM 300 | Sal yodada 1 kg | Abarrotes
+ITEM 301 | Papa chola 2 kg | Frutas y Verduras
+ITEM 302 | Pechuga de pollo 2 kg | Carnes y Pescados
+ITEM 303 | Bolsas basura 1 un | Limpieza del Hogar
+ITEM 304 | Crema de leche 500 ml | Lácteos y Huevos
+ITEM 305 | Filete de tilapia 2 kg | Carnes y Pescados
+ITEM 306 | Leche descremada 0.5 L | Lácteos y Huevos
+ITEM 307 | Agua sin gas 400 L | Bebidas
+ITEM 308 | Granola 300 g | Panadería y Cereales
+ITEM 309 | Mostaza 250 g | Abarrotes
+ITEM 310 | Suavizante 3 L | Limpieza del Hogar
+ITEM 311 | Perejil manojo | Frutas y Verduras
+ITEM 312 | Maní salado 250 g | Snacks y Dulces
+ITEM 313 | Comida húmeda perro 500 g | Bebé y Mascotas
+ITEM 314 | Carne molida res 0.25 kg | Carnes y Pescados
+ITEM 315 | Desodorante roll-on 400 ml | Higiene y Cuidado Personal
+ITEM 316 | Detergente líquido 300 L | Limpieza del Hogar
+ITEM 317 | Fósforos 1 un | Ferretería ligera
+ITEM 318 | Lavavajillas 3 ml | Limpieza del Hogar
+ITEM 319 | Esponja multiuso 5 un | Limpieza del Hogar
+ITEM 320 | Limpiavidrios 3 ml | Limpieza del Hogar
+ITEM 321 | Pera 1 un | Frutas y Verduras
+ITEM 322 | Alitas de pollo 0.5 kg | Carnes y Pescados
+ITEM 323 | Fideo spaghetti 400 g | Abarrotes
+ITEM 324 | Limón sutil 3 un | Frutas y Verduras
+ITEM 325 | Arroz blanco 0.25 kg | Abarrotes
+ITEM 326 | Lenteja 2 kg | Abarrotes
+ITEM 327 | Pan integral 500 g | Panadería y Cereales
+ITEM 328 | Pimiento verde 10 un | Frutas y Verduras
+ITEM 329 | Chocolate de mesa 750 g | Abarrotes
+ITEM 330 | Jabón de tocador 250 g | Higiene y Cuidado Personal
+ITEM 331 | Hamburguesa de res 200 g | Congelados
+ITEM 332 | Tortillas de trigo 500 g | Panadería y Cereales
+ITEM 333 | Queso mozzarella 500 g | Lácteos y Huevos
+ITEM 334 | Cerveza lata 500 ml | Bebidas
+ITEM 335 | Banano mano 5 un | Frutas y Verduras
+ITEM 336 | Costilla de res 2 kg | Carnes y Pescados
+ITEM 337 | Toallitas húmedas 5 un | Bebé y Mascotas
+ITEM 338 | Huevos AA docena | Lácteos y Huevos
+ITEM 339 | Cloro 1 L | Limpieza del Hogar
+ITEM 340 | Foco LED 1.5 W | Ferretería ligera
+ITEM 341 | Jugo néctar 400 ml | Bebidas
+ITEM 342 | Papel higiénico 300 un | Higiene y Cuidado Personal
+ITEM 343 | Pilas AAA 4 un | Ferretería ligera
+ITEM 344 | Papa a la francesa 900 g | Congelados
+ITEM 345 | Concentrado perro 1 kg | Bebé y Mascotas
+ITEM 346 | Cereal de maíz 750 g | Panadería y Cereales
+ITEM 347 | Galleta de avena 500 g | Panadería y Cereales
+ITEM 348 | Té listo 1000 ml | Bebidas
+ITEM 349 | Energética 200 ml | Bebidas
+ITEM 350 | Café molido 500 g | Abarrotes
+ITEM 351 | Yogur natural 500 g | Lácteos y Huevos
+ITEM 352 | Brócoli 4 un | Frutas y Verduras
+ITEM 353 | Trapo microfibra 5 un | Limpieza del Hogar
+ITEM 354 | Lechuga 200 un | Frutas y Verduras
+ITEM 355 | Queso fresco 400 g | Lácteos y Huevos
+ITEM 356 | Gaseosa limón 750 ml | Bebidas
+ITEM 357 | Avena 200 g | Abarrotes
+ITEM 358 | Mezcla de verduras congeladas 900 g | Congelados
+ITEM 359 | Atún en agua 400 g | Abarrotes
+ITEM 360 | Crema dental 250 g | Higiene y Cuidado Personal
+ITEM 361 | Protector solar 300 ml | Higiene y Cuidado Personal
+ITEM 362 | Pilas AA 4 un | Ferretería ligera
+ITEM 363 | Rasuradora 4 un | Higiene y Cuidado Personal
+ITEM 364 | Levadura seca 500 g | Abarrotes
+ITEM 365 | Garbanzos 2 kg | Abarrotes
+ITEM 366 | Aceite vegetal 200 L | Abarrotes
+ITEM 367 | Harina de trigo 0.25 kg | Abarrotes
+ITEM 368 | Camarón mediano 1 kg | Carnes y Pescados
+ITEM 369 | Nuggets de pollo 400 g | Congelados
+ITEM 370 | Sardina en aceite 750 g | Abarrotes
+ITEM 371 | Atún fresco 0.25 kg | Carnes y Pescados
+ITEM 372 | Mayonesa 900 g | Abarrotes
+ITEM 373 | Salsa de tomate 500 g | Abarrotes
+ITEM 374 | Acondicionador 500 ml | Higiene y Cuidado Personal
+ITEM 375 | Shampoo 300 ml | Higiene y Cuidado Personal
+ITEM 376 | Helado vainilla 1.5 L | Congelados
+ITEM 377 | Agua saborizada 200 ml | Bebidas
+ITEM 378 | Papas fritas 900 g | Snacks y Dulces
+ITEM 379 | Limón sutil 1 un | Frutas y Verduras
+ITEM 380 | Papa a la francesa 300 g | Congelados
+ITEM 381 | Perejil manojo | Frutas y Verduras
+ITEM 382 | Agua con gas 300 L | Bebidas
+ITEM 383 | Detergente en polvo 0.5 kg | Limpieza del Hogar
+ITEM 384 | Cereal de maíz 300 g | Panadería y Cereales
+ITEM 385 | Alitas de pollo 0.5 kg | Carnes y Pescados
+ITEM 386 | Leche descremada 2 L | Lácteos y Huevos
+ITEM 387 | Mantequilla 900 g | Lácteos y Huevos
+ITEM 388 | Pechuga de pollo 0.25 kg | Carnes y Pescados
+ITEM 389 | Manzana roja 1 un | Frutas y Verduras
+ITEM 390 | Brócoli 2 un | Frutas y Verduras
+ITEM 391 | Tortillas de trigo 500 g | Panadería y Cereales
+ITEM 392 | Cinta adhesiva 5 m | Ferretería ligera
+ITEM 393 | Galleta dulce 900 g | Abarrotes
+ITEM 394 | Pan de molde blanco 200 g | Panadería y Cereales
+ITEM 395 | Zanahoria 2 un | Frutas y Verduras
+ITEM 396 | Shampoo 250 ml | Higiene y Cuidado Personal
+ITEM 397 | Detergente líquido 750 L | Limpieza del Hogar
+ITEM 398 | Harina de trigo 2 kg | Abarrotes
+ITEM 399 | Energética 250 ml | Bebidas
+ITEM 400 | Miel de abeja 400 g | Abarrotes
+ITEM 401 | Té listo 500 ml | Bebidas
+ITEM 402 | Café molido 500 g | Abarrotes
+ITEM 403 | Bebida isotónica 1000 ml | Bebidas
+ITEM 404 | Cloro 0.5 L | Limpieza del Hogar
+ITEM 405 | Camarón mediano 2 kg | Carnes y Pescados
+ITEM 406 | Gaseosa limón 300 ml | Bebidas
+ITEM 407 | Panela granulada 300 g | Abarrotes
+ITEM 408 | Mermelada de fresa 200 g | Abarrotes
+ITEM 409 | Cebolla paiteña 2 un | Frutas y Verduras
+ITEM 410 | Crema de leche 300 ml | Lácteos y Huevos
+ITEM 411 | Agua sin gas 400 L | Bebidas
+ITEM 412 | Hamburguesa de res 500 g | Congelados
+ITEM 413 | Cilantro manojo | Frutas y Verduras
+ITEM 414 | Pan integral 200 g | Panadería y Cereales
+ITEM 415 | Limpiavidrios 1.5 ml | Limpieza del Hogar
+ITEM 416 | Ajo cabeza 1 un | Frutas y Verduras
+ITEM 417 | Granola 500 g | Panadería y Cereales
+ITEM 418 | Maní salado 500 g | Snacks y Dulces
+ITEM 419 | Costilla de res 1 kg | Carnes y Pescados
+ITEM 420 | Kumis 250 ml | Lácteos y Huevos
+ITEM 421 | Fósforos 1 un | Ferretería ligera
+ITEM 422 | Queso fresco 250 g | Lácteos y Huevos
+ITEM 423 | Cepillo dental 4 un | Higiene y Cuidado Personal
+ITEM 424 | Crema dental 900 g | Higiene y Cuidado Personal
+ITEM 425 | Acondicionador 300 ml | Higiene y Cuidado Personal
+ITEM 426 | Banano mano 20 un | Frutas y Verduras
+ITEM 427 | Pilas AA 3 un | Ferretería ligera
+ITEM 428 | Mayonesa 900 g | Abarrotes
+ITEM 429 | Pimiento verde 10 un | Frutas y Verduras
+ITEM 430 | Azúcar 0.5 kg | Abarrotes
+ITEM 431 | Fideo spaghetti 250 g | Abarrotes
+ITEM 432 | Sardina en aceite 750 g | Abarrotes
+ITEM 433 | Arena para gato 1 kg | Bebé y Mascotas
+ITEM 434 | Salsa de ají 750 g | Abarrotes
+ITEM 435 | Toalla de papel 1 un | Limpieza del Hogar
+ITEM 436 | Toallitas húmedas 20 un | Bebé y Mascotas
+ITEM 437 | Gel de baño 400 ml | Higiene y Cuidado Personal
+ITEM 438 | Desodorante roll-on 250 ml | Higiene y Cuidado Personal
+ITEM 439 | Maíz dulce enlatado 250 g | Abarrotes
+ITEM 440 | Protector solar 200 ml | Higiene y Cuidado Personal
+ITEM 441 | Chicle 4 un | Snacks y Dulces
+ITEM 442 | Pera 1 un | Frutas y Verduras
+ITEM 443 | Queso mozzarella 750 g | Lácteos y Huevos
+ITEM 444 | Avena 400 g | Abarrotes
+ITEM 445 | Cacao en polvo 200 g | Abarrotes
+ITEM 446 | Chocolate de mesa 900 g | Abarrotes
+ITEM 447 | Salsa de tomate 900 g | Abarrotes
+ITEM 448 | Cerveza lata 200 ml | Bebidas
+ITEM 449 | Huevos AA docena | Lácteos y Huevos
+ITEM 450 | Naranja 2 un | Frutas y Verduras
+ITEM 451 | Foco LED 1.5 W | Ferretería ligera
+ITEM 452 | Atún en agua 900 g | Abarrotes
+ITEM 453 | Galleta rellena 900 g | Snacks y Dulces
+ITEM 454 | Lechuga 750 un | Frutas y Verduras
+ITEM 455 | Pañales etapa 3 un | Bebé y Mascotas
+ITEM 456 | Mezcla de verduras congeladas 500 g | Congelados
+ITEM 457 | Concentrado perro 0.25 kg | Bebé y Mascotas
+ITEM 458 | Lenteja 2 kg | Abarrotes
+ITEM 459 | Bizcocho 500 g | Panadería y Cereales
+ITEM 460 | Toallas higiénicas 900 un | Higiene y Cuidado Personal
+ITEM 461 | Desinfectante 1 L | Limpieza del Hogar
+ITEM 462 | Nachos 750 g | Snacks y Dulces
+ITEM 463 | Helado vainilla 3 L | Congelados
+ITEM 464 | Jugo néctar 250 ml | Bebidas
+ITEM 465 | Papa chola 0.25 kg | Frutas y Verduras
+ITEM 466 | Chuleta de cerdo 0.25 kg | Carnes y Pescados
+ITEM 467 | Suavizante 0.5 L | Limpieza del Hogar
+ITEM 468 | Galleta salada 250 g | Abarrotes
+ITEM 469 | Filete de tilapia 1 kg | Carnes y Pescados
+ITEM 470 | Crema corporal 200 ml | Higiene y Cuidado Personal
+ITEM 471 | Aguacate 400 un | Frutas y Verduras
+ITEM 472 | Comida húmeda perro 900 g | Bebé y Mascotas
+ITEM 473 | Bolsas basura 2 un | Limpieza del Hogar
+ITEM 474 | Jabón de tocador 750 g | Higiene y Cuidado Personal
+ITEM 475 | Margarina 500 g | Lácteos y Huevos
+ITEM 476 | Fórmula infantil 750 g | Bebé y Mascotas
+ITEM 477 | Palomitas para microondas 300 g | Snacks y Dulces
+ITEM 478 | Arroz blanco 1 kg | Abarrotes
+ITEM 479 | Vinagre blanco 200 L | Abarrotes
+ITEM 480 | Caramelo surtido 900 g | Snacks y Dulces
+ITEM 481 | Rasuradora 3 un | Higiene y Cuidado Personal
+ITEM 482 | Nuggets de pollo 900 g | Congelados
+ITEM 483 | Trapo microfibra 20 un | Limpieza del Hogar
+ITEM 484 | Gaseosa cola 500 ml | Bebidas
+ITEM 485 | Carne molida res 0.5 kg | Carnes y Pescados
+ITEM 486 | Agua saborizada 200 ml | Bebidas
+ITEM 487 | Papas fritas 200 g | Snacks y Dulces
+ITEM 488 | Pilas AAA 3 un | Ferretería ligera
+ITEM 489 | Garbanzos 0.25 kg | Abarrotes
+ITEM 490 | Tomate riñón 5 un | Frutas y Verduras
+ITEM 491 | Papel higiénico 900 un | Higiene y Cuidado Personal
+ITEM 492 | Pepino 3 un | Frutas y Verduras
+ITEM 493 | Guantes de limpieza 20 par | Limpieza del Hogar
+ITEM 494 | Atún fresco 0.25 kg | Carnes y Pescados
+ITEM 495 | Chocolate barra 300 g | Snacks y Dulces
+ITEM 496 | Sal yodada 0.5 kg | Abarrotes
+ITEM 497 | Yogur natural 250 g | Lácteos y Huevos
+ITEM 498 | Esponja multiuso 5 un | Limpieza del Hogar
+ITEM 499 | Aceite vegetal 500 L | Abarrotes
+ITEM 500 | Mostaza 200 g | Abarrotes
+ITEM 501 | Galleta de avena 400 g | Panadería y Cereales
+ITEM 502 | Lavavajillas 0.5 ml | Limpieza del Hogar
+ITEM 503 | Leche entera 1.5 L | Lácteos y Huevos
+ITEM 504 | Levadura seca 750 g | Abarrotes
+ITEM 505 | Lavavajillas 1.5 ml | Limpieza del Hogar
+ITEM 506 | Naranja 4 un | Frutas y Verduras
+ITEM 507 | Té listo 200 ml | Bebidas
+ITEM 508 | Palomitas para microondas 300 g | Snacks y Dulces
+ITEM 509 | Salsa de ají 250 g | Abarrotes
+ITEM 510 | Gaseosa cola 400 ml | Bebidas
+ITEM 511 | Arroz blanco 0.25 kg | Abarrotes
+ITEM 512 | Pilas AAA 4 un | Ferretería ligera
+ITEM 513 | Galleta salada 300 g | Abarrotes
+ITEM 514 | Cereal de maíz 750 g | Panadería y Cereales
+ITEM 515 | Azúcar 2 kg | Abarrotes
+ITEM 516 | Limpiavidrios 3 ml | Limpieza del Hogar
+ITEM 517 | Alitas de pollo 0.25 kg | Carnes y Pescados
+ITEM 518 | Cepillo dental 3 un | Higiene y Cuidado Personal
+ITEM 519 | Mayonesa 400 g | Abarrotes
+ITEM 520 | Concentrado perro 2 kg | Bebé y Mascotas
+ITEM 521 | Limón sutil 1 un | Frutas y Verduras
+ITEM 522 | Nuggets de pollo 300 g | Congelados
+ITEM 523 | Queso fresco 400 g | Lácteos y Huevos
+ITEM 524 | Levadura seca 250 g | Abarrotes
+ITEM 525 | Mostaza 500 g | Abarrotes
+ITEM 526 | Protector solar 750 ml | Higiene y Cuidado Personal
+ITEM 527 | Chocolate barra 200 g | Snacks y Dulces
+ITEM 528 | Cebolla paiteña 3 un | Frutas y Verduras
+ITEM 529 | Chicle 1 un | Snacks y Dulces
+ITEM 530 | Yogur natural 400 g | Lácteos y Huevos
+ITEM 531 | Fórmula infantil 500 g | Bebé y Mascotas
+ITEM 532 | Papel higiénico 300 un | Higiene y Cuidado Personal
+ITEM 533 | Manzana roja 3 un | Frutas y Verduras
+ITEM 534 | Toallas higiénicas 400 un | Higiene y Cuidado Personal
+ITEM 535 | Crema de leche 400 ml | Lácteos y Huevos
+ITEM 536 | Cinta adhesiva 10 m | Ferretería ligera
+ITEM 537 | Maní salado 250 g | Snacks y Dulces
+ITEM 538 | Mezcla de verduras congeladas 500 g | Congelados
+ITEM 539 | Chuleta de cerdo 1 kg | Carnes y Pescados
+ITEM 540 | Pilas AA 4 un | Ferretería ligera
+ITEM 541 | Jabón de tocador 500 g | Higiene y Cuidado Personal
+ITEM 542 | Sardina en aceite 300 g | Abarrotes
+ITEM 543 | Kumis 750 ml | Lácteos y Huevos
+ITEM 544 | Margarina 250 g | Lácteos y Huevos
+ITEM 545 | Filete de tilapia 0.25 kg | Carnes y Pescados
+ITEM 546 | Leche entera 0.5 L | Lácteos y Huevos
+ITEM 547 | Papas fritas 900 g | Snacks y Dulces
+ITEM 548 | Brócoli 1 un | Frutas y Verduras
+ITEM 549 | Sal yodada 2 kg | Abarrotes
+ITEM 550 | Papa a la francesa 300 g | Congelados
+ITEM 551 | Crema corporal 400 ml | Higiene y Cuidado Personal
+ITEM 552 | Granola 200 g | Panadería y Cereales
+ITEM 553 | Cacao en polvo 900 g | Abarrotes
+ITEM 554 | Aguacate 500 un | Frutas y Verduras
+ITEM 555 | Chocolate de mesa 250 g | Abarrotes
+ITEM 556 | Vinagre blanco 500 L | Abarrotes
+ITEM 557 | Galleta rellena 250 g | Snacks y Dulces
+ITEM 558 | Mermelada de fresa 300 g | Abarrotes
+ITEM 559 | Cerveza lata 400 ml | Bebidas
+ITEM 560 | Papa chola 1 kg | Frutas y Verduras
+ITEM 561 | Huevos AA docena | Lácteos y Huevos
+ITEM 562 | Acondicionador 200 ml | Higiene y Cuidado Personal
+ITEM 563 | Miel de abeja 250 g | Abarrotes
+ITEM 564 | Agua con gas 300 L | Bebidas
+ITEM 565 | Bolsas basura 1 un | Limpieza del Hogar
+ITEM 566 | Perejil manojo | Frutas y Verduras
+ITEM 567 | Garbanzos 0.5 kg | Abarrotes
+ITEM 568 | Desinfectante 0.5 L | Limpieza del Hogar
+ITEM 569 | Agua saborizada 200 ml | Bebidas
+ITEM 570 | Harina de trigo 0.5 kg | Abarrotes
+ITEM 571 | Crema dental 500 g | Higiene y Cuidado Personal
+ITEM 572 | Guantes de limpieza 5 par | Limpieza del Hogar
+ITEM 573 | Bizcocho 900 g | Panadería y Cereales
+ITEM 574 | Esponja multiuso 20 un | Limpieza del Hogar
+ITEM 575 | Ajo cabeza 4 un | Frutas y Verduras
+ITEM 576 | Caramelo surtido 250 g | Snacks y Dulces
+ITEM 577 | Pimiento verde 5 un | Frutas y Verduras
+ITEM 578 | Gaseosa limón 500 ml | Bebidas
+ITEM 579 | Fideo spaghetti 900 g | Abarrotes
+ITEM 580 | Trapo microfibra 5 un | Limpieza del Hogar
+ITEM 581 | Pan integral 400 g | Panadería y Cereales
+ITEM 582 | Queso mozzarella 200 g | Lácteos y Huevos
+ITEM 583 | Pan de molde blanco 750 g | Panadería y Cereales
+ITEM 584 | Hamburguesa de res 900 g | Congelados
+ITEM 585 | Avena 300 g | Abarrotes
+ITEM 586 | Agua sin gas 900 L | Bebidas
+ITEM 587 | Helado vainilla 1 L | Congelados
+ITEM 588 | Pepino 4 un | Frutas y Verduras
+ITEM 589 | Mantequilla 250 g | Lácteos y Huevos
+ITEM 590 | Shampoo 300 ml | Higiene y Cuidado Personal
+ITEM 591 | Detergente en polvo 1 kg | Limpieza del Hogar
+ITEM 592 | Jugo néctar 300 ml | Bebidas
+ITEM 593 | Tortillas de trigo 300 g | Panadería y Cereales
+ITEM 594 | Lenteja 0.25 kg | Abarrotes
+ITEM 595 | Atún fresco 0.25 kg | Carnes y Pescados
+ITEM 596 | Fósforos 3 un | Ferretería ligera
+ITEM 597 | Café molido 300 g | Abarrotes
+ITEM 598 | Banano mano 5 un | Frutas y Verduras
+ITEM 599 | Arena para gato 0.25 kg | Bebé y Mascotas
+ITEM 600 | Galleta dulce 200 g | Abarrotes
+ITEM 601 | Rasuradora 1 un | Higiene y Cuidado Personal
+ITEM 602 | Energética 250 ml | Bebidas
+ITEM 603 | Tomate riñón 10 un | Frutas y Verduras
+ITEM 604 | Galleta de avena 250 g | Panadería y Cereales
+ITEM 605 | Camarón mediano 0.25 kg | Carnes y Pescados
+ITEM 606 | Atún en agua 900 g | Abarrotes
+ITEM 607 | Carne molida res 2 kg | Carnes y Pescados
+ITEM 608 | Leche descremada 1.5 L | Lácteos y Huevos
+ITEM 609 | Toalla de papel 4 un | Limpieza del Hogar
+ITEM 610 | Cilantro manojo | Frutas y Verduras
+ITEM 611 | Maíz dulce enlatado 900 g | Abarrotes
+ITEM 612 | Cloro 2 L | Limpieza del Hogar
+ITEM 613 | Panela granulada 250 g | Abarrotes
+ITEM 614 | Pera 2 un | Frutas y Verduras
+ITEM 615 | Lechuga 500 un | Frutas y Verduras
+ITEM 616 | Toallitas húmedas 20 un | Bebé y Mascotas
+ITEM 617 | Pañales etapa 3 un | Bebé y Mascotas
+ITEM 618 | Aceite vegetal 750 L | Abarrotes
+ITEM 619 | Costilla de res 0.25 kg | Carnes y Pescados
+ITEM 620 | Desodorante roll-on 250 ml | Higiene y Cuidado Personal
+ITEM 621 | Salsa de tomate 750 g | Abarrotes
+ITEM 622 | Gel de baño 200 ml | Higiene y Cuidado Personal
+ITEM 623 | Suavizante 3 L | Limpieza del Hogar
+ITEM 624 | Foco LED 3 W | Ferretería ligera
+ITEM 625 | Comida húmeda perro 200 g | Bebé y Mascotas
+ITEM 626 | Nachos 500 g | Snacks y Dulces
+ITEM 627 | Detergente líquido 200 L | Limpieza del Hogar
+ITEM 628 | Bebida isotónica 250 ml | Bebidas
+ITEM 629 | Zanahoria 3 un | Frutas y Verduras
+ITEM 630 | Pechuga de pollo 0.25 kg | Carnes y Pescados
+ITEM 631 | Pilas AA 1 un | Ferretería ligera
+ITEM 632 | Chuleta de cerdo 0.25 kg | Carnes y Pescados
+ITEM 633 | Tortillas de trigo 200 g | Panadería y Cereales
+ITEM 634 | Limón sutil 2 un | Frutas y Verduras
+ITEM 635 | Manzana roja 4 un | Frutas y Verduras
+ITEM 636 | Margarina 400 g | Lácteos y Huevos
+ITEM 637 | Bolsas basura 3 un | Limpieza del Hogar
+ITEM 638 | Lenteja 2 kg | Abarrotes
+ITEM 639 | Tomate riñón 20 un | Frutas y Verduras
+ITEM 640 | Bebida isotónica 750 ml | Bebidas
+ITEM 641 | Avena 750 g | Abarrotes
+ITEM 642 | Pepino 3 un | Frutas y Verduras
+ITEM 643 | Harina de trigo 0.5 kg | Abarrotes
+ITEM 644 | Bizcocho 900 g | Panadería y Cereales
+ITEM 645 | Cilantro manojo | Frutas y Verduras
+ITEM 646 | Salsa de tomate 400 g | Abarrotes
+ITEM 647 | Lechuga 900 un | Frutas y Verduras
+ITEM 648 | Huevos AA docena | Lácteos y Huevos
+ITEM 649 | Pañales etapa 4 un | Bebé y Mascotas
+ITEM 650 | Perejil manojo | Frutas y Verduras
+ITEM 651 | Mantequilla 250 g | Lácteos y Huevos
+ITEM 652 | Nuggets de pollo 750 g | Congelados
+ITEM 653 | Vinagre blanco 500 L | Abarrotes
+ITEM 654 | Energética 750 ml | Bebidas
+ITEM 655 | Galleta dulce 400 g | Abarrotes
+ITEM 656 | Kumis 200 ml | Lácteos y Huevos
+ITEM 657 | Fideo spaghetti 200 g | Abarrotes
+ITEM 658 | Atún fresco 0.5 kg | Carnes y Pescados
+ITEM 659 | Garbanzos 0.5 kg | Abarrotes
+ITEM 660 | Brócoli 1 un | Frutas y Verduras
