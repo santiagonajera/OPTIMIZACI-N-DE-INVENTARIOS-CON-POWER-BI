@@ -1,0 +1,661 @@
+ITEM,Nombre,Categoría,Enero,Febrero,Marzo,Abril,Mayo,Junio
+ITEM 1,Galleta rellena 250 g,Snacks y Dulces,10% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción,Precio especial
+ITEM 2,Filete de tilapia 0.5 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,Precio especial
+ITEM 3,Hamburguesa de res 400 g,Congelados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción
+ITEM 4,Acondicionador 500 ml,Higiene y Cuidado Personal,Sin promoción,15% descuento,Precio especial,Lleve 3 pague 2,10% descuento,Lleve 3 pague 2
+ITEM 5,Crema de leche 750 ml,Lácteos y Huevos,Sin promoción,2x1,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 6,Agua saborizada 900 ml,Bebidas,Sin promoción,20% descuento,10% descuento,Sin promoción,Precio especial,Sin promoción
+ITEM 7,Papa chola 0.25 kg,Frutas y Verduras,Sin promoción,15% descuento,Sin promoción,15% descuento,Sin promoción,Sin promoción
+ITEM 8,Brócoli 3 un,Frutas y Verduras,10% descuento,Sin promoción,10% descuento,10% descuento,Sin promoción,Sin promoción
+ITEM 9,Fórmula infantil 750 g,Bebé y Mascotas,Sin promoción,15% descuento,20% descuento,15% descuento,Sin promoción,Sin promoción
+ITEM 10,Trapo microfibra 10 un,Limpieza del Hogar,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 11,Toallas higiénicas 200 un,Higiene y Cuidado Personal,10% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 12,Alitas de pollo 0.25 kg,Carnes y Pescados,10% descuento,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 13,Banano mano 5 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 14,Pan integral 400 g,Panadería y Cereales,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 15,Cepillo dental 4 un,Higiene y Cuidado Personal,15% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 16,Maní salado 400 g,Snacks y Dulces,Sin promoción,15% descuento,15% descuento,Sin promoción,2x1,Sin promoción
+ITEM 17,Queso fresco 300 g,Lácteos y Huevos,10% descuento,10% descuento,Sin promoción,Lleve 3 pague 2,Sin promoción,10% descuento
+ITEM 18,Cereal de maíz 750 g,Panadería y Cereales,15% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción,20% descuento
+ITEM 19,Energética 900 ml,Bebidas,20% descuento,15% descuento,10% descuento,Sin promoción,2x1,Sin promoción
+ITEM 20,Mostaza 250 g,Abarrotes,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 21,Levadura seca 500 g,Abarrotes,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 22,Concentrado perro 0.25 kg,Bebé y Mascotas,Sin promoción,15% descuento,Precio especial,Precio especial,2x1,Sin promoción
+ITEM 23,Jugo néctar 400 ml,Bebidas,20% descuento,Sin promoción,15% descuento,Sin promoción,Sin promoción,10% descuento
+ITEM 24,Palomitas para microondas 750 g,Snacks y Dulces,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción,20% descuento
+ITEM 25,Esponja multiuso 5 un,Limpieza del Hogar,Lleve 3 pague 2,Sin promoción,10% descuento,10% descuento,Sin promoción,Sin promoción
+ITEM 26,Salsa de ají 200 g,Abarrotes,10% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 27,Bebida isotónica 900 ml,Bebidas,15% descuento,Sin promoción,Sin promoción,Sin promoción,2x1,Sin promoción
+ITEM 28,Crema corporal 750 ml,Higiene y Cuidado Personal,2x1,Combo ahorro,Sin promoción,Sin promoción,10% descuento,20% descuento
+ITEM 29,Protector solar 750 ml,Higiene y Cuidado Personal,15% descuento,Sin promoción,Sin promoción,2x1,10% descuento,20% descuento
+ITEM 30,Mermelada de fresa 250 g,Abarrotes,15% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,20% descuento
+ITEM 31,Leche descremada 1.5 L,Lácteos y Huevos,Sin promoción,15% descuento,2x1,Lleve 3 pague 2,Sin promoción,Sin promoción
+ITEM 32,Tortillas de trigo 250 g,Panadería y Cereales,2x1,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción
+ITEM 33,Toallitas húmedas 20 un,Bebé y Mascotas,20% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 34,Nachos 900 g,Snacks y Dulces,10% descuento,Sin promoción,10% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 35,Gaseosa cola 500 ml,Bebidas,10% descuento,Precio especial,Sin promoción,10% descuento,Sin promoción,20% descuento
+ITEM 36,Nuggets de pollo 200 g,Congelados,Sin promoción,Combo ahorro,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 37,Costilla de res 0.25 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Precio especial
+ITEM 38,Harina de trigo 0.5 kg,Abarrotes,Sin promoción,10% descuento,Precio especial,Sin promoción,2x1,Sin promoción
+ITEM 39,Chicle 3 un,Snacks y Dulces,10% descuento,20% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 40,Garbanzos 0.5 kg,Abarrotes,10% descuento,10% descuento,Sin promoción,Sin promoción,15% descuento,Sin promoción
+ITEM 41,Detergente líquido 200 L,Limpieza del Hogar,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 42,Tomate riñón 20 un,Frutas y Verduras,Sin promoción,Sin promoción,10% descuento,Sin promoción,Precio especial,2x1
+ITEM 43,Gaseosa limón 300 ml,Bebidas,10% descuento,Sin promoción,Sin promoción,15% descuento,10% descuento,Lleve 3 pague 2
+ITEM 44,Pilas AAA 1 un,Ferretería ligera,Sin promoción,Sin promoción,10% descuento,Precio especial,Sin promoción,Sin promoción
+ITEM 45,Pechuga de pollo 0.25 kg,Carnes y Pescados,10% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 46,Lenteja 0.25 kg,Abarrotes,Sin promoción,20% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 47,Chocolate barra 400 g,Snacks y Dulces,Precio especial,10% descuento,10% descuento,Lleve 3 pague 2,Sin promoción,10% descuento
+ITEM 48,Ajo cabeza 2 un,Frutas y Verduras,Sin promoción,Lleve 3 pague 2,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción
+ITEM 49,Cilantro manojo,Frutas y Verduras,20% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 50,Mantequilla 300 g,Lácteos y Huevos,Sin promoción,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 51,Agua sin gas 500 L,Bebidas,Sin promoción,20% descuento,Sin promoción,10% descuento,Sin promoción,10% descuento
+ITEM 52,Lechuga 200 un,Frutas y Verduras,Sin promoción,Sin promoción,15% descuento,10% descuento,10% descuento,20% descuento
+ITEM 53,Margarina 900 g,Lácteos y Huevos,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,2x1
+ITEM 54,Azúcar 1 kg,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 55,Caramelo surtido 300 g,Snacks y Dulces,Sin promoción,10% descuento,10% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 56,Cloro 1 L,Limpieza del Hogar,15% descuento,Sin promoción,Sin promoción,Sin promoción,Precio especial,15% descuento
+ITEM 57,Comida húmeda perro 400 g,Bebé y Mascotas,Sin promoción,15% descuento,15% descuento,Sin promoción,2x1,Sin promoción
+ITEM 58,Pan de molde blanco 500 g,Panadería y Cereales,15% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento
+ITEM 59,Chuleta de cerdo 1 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 60,Shampoo 300 ml,Higiene y Cuidado Personal,15% descuento,10% descuento,Sin promoción,Sin promoción,15% descuento,10% descuento
+ITEM 61,Cacao en polvo 200 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 62,Camarón mediano 1 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 63,Crema dental 750 g,Higiene y Cuidado Personal,10% descuento,2x1,20% descuento,15% descuento,Sin promoción,Sin promoción
+ITEM 64,Galleta de avena 200 g,Panadería y Cereales,Sin promoción,Sin promoción,20% descuento,2x1,Sin promoción,10% descuento
+ITEM 65,Vinagre blanco 200 L,Abarrotes,Sin promoción,Precio especial,Sin promoción,Sin promoción,15% descuento,20% descuento
+ITEM 66,Gel de baño 900 ml,Higiene y Cuidado Personal,15% descuento,Sin promoción,Sin promoción,10% descuento,10% descuento,10% descuento
+ITEM 67,Guantes de limpieza 10 par,Limpieza del Hogar,Sin promoción,Sin promoción,Sin promoción,10% descuento,10% descuento,10% descuento
+ITEM 68,Jabón de tocador 250 g,Higiene y Cuidado Personal,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción,20% descuento
+ITEM 69,Bolsas basura 4 un,Limpieza del Hogar,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción
+ITEM 70,Aceite vegetal 500 L,Abarrotes,Sin promoción,Sin promoción,10% descuento,Sin promoción,15% descuento,Lleve 3 pague 2
+ITEM 71,Fósforos 2 un,Ferretería ligera,10% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción,20% descuento
+ITEM 72,Perejil manojo,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción
+ITEM 73,Papel higiénico 750 un,Higiene y Cuidado Personal,Sin promoción,2x1,20% descuento,Sin promoción,Sin promoción,2x1
+ITEM 74,Sardina en aceite 300 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,15% descuento,10% descuento,Sin promoción
+ITEM 75,Cebolla paiteña 4 un,Frutas y Verduras,Sin promoción,Sin promoción,2x1,Sin promoción,Sin promoción,Precio especial
+ITEM 76,Papa a la francesa 300 g,Congelados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 77,Chocolate de mesa 200 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 78,Rasuradora 1 un,Higiene y Cuidado Personal,Sin promoción,Lleve 3 pague 2,10% descuento,Sin promoción,Sin promoción,10% descuento
+ITEM 79,Mezcla de verduras congeladas 300 g,Congelados,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 80,Kumis 300 ml,Lácteos y Huevos,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,2x1
+ITEM 81,Limón sutil 1 un,Frutas y Verduras,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción,Precio especial
+ITEM 82,Helado vainilla 0.5 L,Congelados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 83,Pilas AA 2 un,Ferretería ligera,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 84,Café molido 900 g,Abarrotes,10% descuento,2x1,Sin promoción,15% descuento,Sin promoción,15% descuento
+ITEM 85,Pimiento verde 5 un,Frutas y Verduras,Sin promoción,10% descuento,20% descuento,Lleve 3 pague 2,Precio especial,Sin promoción
+ITEM 86,Yogur natural 900 g,Lácteos y Huevos,Sin promoción,20% descuento,20% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 87,Leche entera 0.5 L,Lácteos y Huevos,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,2x1
+ITEM 88,Agua con gas 250 L,Bebidas,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 89,Avena 250 g,Abarrotes,Sin promoción,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 90,Naranja 4 un,Frutas y Verduras,2x1,Sin promoción,10% descuento,10% descuento,Sin promoción,Sin promoción
+ITEM 91,Suavizante 2 L,Limpieza del Hogar,10% descuento,Sin promoción,Sin promoción,20% descuento,10% descuento,Sin promoción
+ITEM 92,Maíz dulce enlatado 500 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 93,Granola 500 g,Panadería y Cereales,10% descuento,Sin promoción,10% descuento,Sin promoción,10% descuento,20% descuento
+ITEM 94,Arena para gato 2 kg,Bebé y Mascotas,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Precio especial,Sin promoción
+ITEM 95,Salsa de tomate 200 g,Abarrotes,Sin promoción,Sin promoción,10% descuento,Combo ahorro,Lleve 3 pague 2,2x1
+ITEM 96,Panela granulada 250 g,Abarrotes,Sin promoción,20% descuento,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción
+ITEM 97,Atún en agua 500 g,Abarrotes,Sin promoción,20% descuento,10% descuento,Sin promoción,15% descuento,15% descuento
+ITEM 98,Queso mozzarella 400 g,Lácteos y Huevos,15% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento
+ITEM 99,Desodorante roll-on 500 ml,Higiene y Cuidado Personal,20% descuento,Sin promoción,Sin promoción,10% descuento,2x1,Sin promoción
+ITEM 100,Galleta salada 500 g,Abarrotes,Precio especial,Sin promoción,Sin promoción,20% descuento,Precio especial,Sin promoción
+ITEM 101,Zanahoria 1 un,Frutas y Verduras,Sin promoción,Precio especial,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 102,Limpiavidrios 0.5 ml,Limpieza del Hogar,Sin promoción,Sin promoción,Sin promoción,Sin promoción,20% descuento,Sin promoción
+ITEM 103,Aguacate 500 un,Frutas y Verduras,Precio especial,Precio especial,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 104,Desinfectante 3 L,Limpieza del Hogar,Sin promoción,Sin promoción,15% descuento,Sin promoción,2x1,Sin promoción
+ITEM 105,Galleta dulce 400 g,Abarrotes,Sin promoción,2x1,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 106,Pera 3 un,Frutas y Verduras,Sin promoción,10% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 107,Toalla de papel 1 un,Limpieza del Hogar,10% descuento,15% descuento,Sin promoción,Sin promoción,15% descuento,Sin promoción
+ITEM 108,Fideo spaghetti 750 g,Abarrotes,Sin promoción,Sin promoción,Precio especial,Sin promoción,10% descuento,10% descuento
+ITEM 109,Lavavajillas 3 ml,Limpieza del Hogar,Sin promoción,15% descuento,2x1,Sin promoción,Sin promoción,2x1
+ITEM 110,Foco LED 3 W,Ferretería ligera,20% descuento,Precio especial,Precio especial,Precio especial,10% descuento,Sin promoción
+ITEM 111,Atún fresco 1 kg,Carnes y Pescados,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Combo ahorro
+ITEM 112,Té listo 250 ml,Bebidas,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 113,Sal yodada 0.5 kg,Abarrotes,Lleve 3 pague 2,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 114,Bizcocho 750 g,Panadería y Cereales,15% descuento,Sin promoción,10% descuento,10% descuento,15% descuento,10% descuento
+ITEM 115,Cinta adhesiva 5 m,Ferretería ligera,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,20% descuento
+ITEM 116,Carne molida res 0.25 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 117,Cerveza lata 250 ml,Bebidas,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,20% descuento
+ITEM 118,Arroz blanco 2 kg,Abarrotes,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Sin promoción,20% descuento
+ITEM 119,Detergente en polvo 2 kg,Limpieza del Hogar,Sin promoción,Sin promoción,Precio especial,15% descuento,Precio especial,10% descuento
+ITEM 120,Pañales etapa 1 un,Bebé y Mascotas,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 121,Miel de abeja 400 g,Abarrotes,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 122,Mayonesa 750 g,Abarrotes,20% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 123,Huevos AA docena,Lácteos y Huevos,10% descuento,Sin promoción,Sin promoción,15% descuento,20% descuento,Sin promoción
+ITEM 124,Manzana roja 1 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 125,Papas fritas 750 g,Snacks y Dulces,15% descuento,Precio especial,15% descuento,10% descuento,Sin promoción,Sin promoción
+ITEM 126,Pepino 1 un,Frutas y Verduras,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Sin promoción,20% descuento
+ITEM 127,Salsa de ají 300 g,Abarrotes,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 128,Avena 300 g,Abarrotes,2x1,15% descuento,10% descuento,10% descuento,Sin promoción,15% descuento
+ITEM 129,Gel de baño 1000 ml,Higiene y Cuidado Personal,Sin promoción,Sin promoción,10% descuento,2x1,20% descuento,Sin promoción
+ITEM 130,Café molido 400 g,Abarrotes,Precio especial,10% descuento,10% descuento,15% descuento,Sin promoción,Sin promoción
+ITEM 131,Toallitas húmedas 20 un,Bebé y Mascotas,10% descuento,15% descuento,Sin promoción,15% descuento,Sin promoción,2x1
+ITEM 132,Hamburguesa de res 500 g,Congelados,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción,2x1
+ITEM 133,Agua sin gas 400 L,Bebidas,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Lleve 3 pague 2
+ITEM 134,Energética 400 ml,Bebidas,Sin promoción,Lleve 3 pague 2,15% descuento,15% descuento,Sin promoción,20% descuento
+ITEM 135,Guantes de limpieza 10 par,Limpieza del Hogar,Sin promoción,Combo ahorro,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 136,Costilla de res 0.5 kg,Carnes y Pescados,Sin promoción,10% descuento,10% descuento,Sin promoción,10% descuento,10% descuento
+ITEM 137,Harina de trigo 1 kg,Abarrotes,10% descuento,Sin promoción,10% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 138,Comida húmeda perro 400 g,Bebé y Mascotas,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 139,Atún fresco 0.25 kg,Carnes y Pescados,10% descuento,10% descuento,Sin promoción,10% descuento,Precio especial,10% descuento
+ITEM 140,Caramelo surtido 300 g,Snacks y Dulces,10% descuento,15% descuento,15% descuento,Sin promoción,Precio especial,10% descuento
+ITEM 141,Cebolla paiteña 1 un,Frutas y Verduras,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 142,Gaseosa cola 300 ml,Bebidas,Sin promoción,Sin promoción,2x1,Sin promoción,Lleve 3 pague 2,15% descuento
+ITEM 143,Jugo néctar 300 ml,Bebidas,Sin promoción,Sin promoción,20% descuento,10% descuento,Sin promoción,10% descuento
+ITEM 144,Lavavajillas 3 ml,Limpieza del Hogar,10% descuento,10% descuento,10% descuento,10% descuento,Sin promoción,15% descuento
+ITEM 145,Pimiento verde 5 un,Frutas y Verduras,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,10% descuento
+ITEM 146,Alitas de pollo 0.5 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 147,Cilantro manojo,Frutas y Verduras,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción
+ITEM 148,Nuggets de pollo 750 g,Congelados,15% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 149,Yogur natural 300 g,Lácteos y Huevos,Sin promoción,10% descuento,Sin promoción,Sin promoción,2x1,Sin promoción
+ITEM 150,Crema dental 750 g,Higiene y Cuidado Personal,10% descuento,Sin promoción,20% descuento,10% descuento,Sin promoción,10% descuento
+ITEM 151,Salsa de tomate 250 g,Abarrotes,Sin promoción,15% descuento,Sin promoción,20% descuento,Precio especial,20% descuento
+ITEM 152,Concentrado perro 0.25 kg,Bebé y Mascotas,10% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 153,Chicle 3 un,Snacks y Dulces,Sin promoción,20% descuento,10% descuento,10% descuento,10% descuento,10% descuento
+ITEM 154,Bizcocho 400 g,Panadería y Cereales,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,10% descuento
+ITEM 155,Brócoli 4 un,Frutas y Verduras,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 156,Crema corporal 400 ml,Higiene y Cuidado Personal,Sin promoción,15% descuento,Sin promoción,Precio especial,Sin promoción,10% descuento
+ITEM 157,Desodorante roll-on 750 ml,Higiene y Cuidado Personal,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 158,Levadura seca 200 g,Abarrotes,Combo ahorro,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 159,Leche descremada 0.5 L,Lácteos y Huevos,10% descuento,20% descuento,Sin promoción,Sin promoción,Sin promoción,20% descuento
+ITEM 160,Garbanzos 2 kg,Abarrotes,Sin promoción,10% descuento,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción
+ITEM 161,Toalla de papel 4 un,Limpieza del Hogar,10% descuento,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,15% descuento
+ITEM 162,Bebida isotónica 400 ml,Bebidas,10% descuento,15% descuento,Sin promoción,10% descuento,10% descuento,Sin promoción
+ITEM 163,Papel higiénico 900 un,Higiene y Cuidado Personal,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento
+ITEM 164,Naranja 3 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento
+ITEM 165,Cloro 3 L,Limpieza del Hogar,Sin promoción,Sin promoción,15% descuento,20% descuento,10% descuento,Sin promoción
+ITEM 166,Granola 500 g,Panadería y Cereales,Sin promoción,10% descuento,Sin promoción,Sin promoción,2x1,Combo ahorro
+ITEM 167,Jabón de tocador 200 g,Higiene y Cuidado Personal,Sin promoción,15% descuento,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción
+ITEM 168,Chocolate barra 400 g,Snacks y Dulces,Sin promoción,Sin promoción,10% descuento,Precio especial,10% descuento,Sin promoción
+ITEM 169,Lechuga 750 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento
+ITEM 170,Pilas AAA 1 un,Ferretería ligera,Sin promoción,Sin promoción,15% descuento,Lleve 3 pague 2,10% descuento,Combo ahorro
+ITEM 171,Galleta dulce 300 g,Abarrotes,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 172,Aceite vegetal 500 L,Abarrotes,Sin promoción,Sin promoción,15% descuento,Sin promoción,2x1,Combo ahorro
+ITEM 173,Galleta rellena 250 g,Snacks y Dulces,10% descuento,15% descuento,Sin promoción,15% descuento,Sin promoción,15% descuento
+ITEM 174,Carne molida res 0.25 kg,Carnes y Pescados,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 175,Limón sutil 1 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Combo ahorro
+ITEM 176,Azúcar 0.25 kg,Abarrotes,Sin promoción,Sin promoción,Precio especial,Sin promoción,Sin promoción,Sin promoción
+ITEM 177,Huevos AA docena,Lácteos y Huevos,Sin promoción,20% descuento,Sin promoción,Sin promoción,2x1,20% descuento
+ITEM 178,Banano mano 10 un,Frutas y Verduras,Sin promoción,Sin promoción,Precio especial,15% descuento,Sin promoción,Precio especial
+ITEM 179,Nachos 200 g,Snacks y Dulces,Sin promoción,Sin promoción,15% descuento,15% descuento,15% descuento,Precio especial
+ITEM 180,Detergente líquido 200 L,Limpieza del Hogar,Sin promoción,10% descuento,Sin promoción,Sin promoción,2x1,Sin promoción
+ITEM 181,Perejil manojo,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 182,Helado vainilla 1.5 L,Congelados,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 183,Miel de abeja 250 g,Abarrotes,Precio especial,10% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 184,Vinagre blanco 750 L,Abarrotes,Precio especial,Sin promoción,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción
+ITEM 185,Queso mozzarella 200 g,Lácteos y Huevos,Sin promoción,Sin promoción,15% descuento,2x1,Sin promoción,Sin promoción
+ITEM 186,Agua saborizada 500 ml,Bebidas,Sin promoción,10% descuento,Sin promoción,2x1,15% descuento,Sin promoción
+ITEM 187,Pilas AA 4 un,Ferretería ligera,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción,2x1
+ITEM 188,Agua con gas 750 L,Bebidas,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción
+ITEM 189,Galleta salada 900 g,Abarrotes,Sin promoción,Precio especial,Sin promoción,Sin promoción,Sin promoción,15% descuento
+ITEM 190,Maní salado 400 g,Snacks y Dulces,Lleve 3 pague 2,10% descuento,Sin promoción,15% descuento,Lleve 3 pague 2,Sin promoción
+ITEM 191,Fideo spaghetti 400 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción,Sin promoción
+ITEM 192,Cepillo dental 2 un,Higiene y Cuidado Personal,15% descuento,10% descuento,Sin promoción,10% descuento,10% descuento,Sin promoción
+ITEM 193,Arroz blanco 1 kg,Abarrotes,Lleve 3 pague 2,10% descuento,Sin promoción,Sin promoción,10% descuento,10% descuento
+ITEM 194,Protector solar 750 ml,Higiene y Cuidado Personal,Lleve 3 pague 2,Sin promoción,10% descuento,Sin promoción,2x1,Combo ahorro
+ITEM 195,Zanahoria 3 un,Frutas y Verduras,10% descuento,Sin promoción,2x1,Sin promoción,Sin promoción,Sin promoción
+ITEM 196,Queso fresco 250 g,Lácteos y Huevos,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 197,Maíz dulce enlatado 300 g,Abarrotes,15% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 198,Mayonesa 400 g,Abarrotes,20% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Lleve 3 pague 2
+ITEM 199,Pechuga de pollo 0.5 kg,Carnes y Pescados,15% descuento,Precio especial,Sin promoción,15% descuento,Sin promoción,Sin promoción
+ITEM 200,Pan integral 900 g,Panadería y Cereales,10% descuento,Sin promoción,Lleve 3 pague 2,10% descuento,10% descuento,Sin promoción
+ITEM 201,Cereal de maíz 500 g,Panadería y Cereales,15% descuento,10% descuento,Sin promoción,20% descuento,Sin promoción,Sin promoción
+ITEM 202,Camarón mediano 0.5 kg,Carnes y Pescados,Sin promoción,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 203,Mantequilla 500 g,Lácteos y Huevos,Sin promoción,Sin promoción,2x1,Sin promoción,Sin promoción,Sin promoción
+ITEM 204,Mostaza 250 g,Abarrotes,15% descuento,Sin promoción,15% descuento,Sin promoción,Sin promoción,15% descuento
+ITEM 205,Desinfectante 0.5 L,Limpieza del Hogar,10% descuento,Sin promoción,Sin promoción,15% descuento,Combo ahorro,Combo ahorro
+ITEM 206,Pan de molde blanco 300 g,Panadería y Cereales,Sin promoción,Precio especial,15% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 207,Shampoo 200 ml,Higiene y Cuidado Personal,15% descuento,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Precio especial
+ITEM 208,Filete de tilapia 1 kg,Carnes y Pescados,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 209,Tomate riñón 10 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 210,Panela granulada 500 g,Abarrotes,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción
+ITEM 211,Gaseosa limón 900 ml,Bebidas,Lleve 3 pague 2,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 212,Trapo microfibra 5 un,Limpieza del Hogar,Lleve 3 pague 2,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción
+ITEM 213,Detergente en polvo 1 kg,Limpieza del Hogar,2x1,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 214,Suavizante 1.5 L,Limpieza del Hogar,10% descuento,Sin promoción,20% descuento,Sin promoción,20% descuento,Sin promoción
+ITEM 215,Bolsas basura 2 un,Limpieza del Hogar,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 216,Fósforos 4 un,Ferretería ligera,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 217,Cacao en polvo 400 g,Abarrotes,Sin promoción,10% descuento,Sin promoción,2x1,10% descuento,Sin promoción
+ITEM 218,Té listo 400 ml,Bebidas,2x1,10% descuento,10% descuento,10% descuento,Precio especial,15% descuento
+ITEM 219,Lenteja 0.5 kg,Abarrotes,10% descuento,Sin promoción,15% descuento,Sin promoción,2x1,Precio especial
+ITEM 220,Acondicionador 750 ml,Higiene y Cuidado Personal,Sin promoción,Sin promoción,Sin promoción,Lleve 3 pague 2,10% descuento,Sin promoción
+ITEM 221,Aguacate 250 un,Frutas y Verduras,Sin promoción,10% descuento,15% descuento,Combo ahorro,Sin promoción,Sin promoción
+ITEM 222,Limpiavidrios 1.5 ml,Limpieza del Hogar,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,2x1
+ITEM 223,Palomitas para microondas 750 g,Snacks y Dulces,Sin promoción,10% descuento,10% descuento,Sin promoción,Sin promoción,Lleve 3 pague 2
+ITEM 224,Atún en agua 500 g,Abarrotes,10% descuento,20% descuento,Sin promoción,10% descuento,Lleve 3 pague 2,Sin promoción
+ITEM 225,Rasuradora 1 un,Higiene y Cuidado Personal,Sin promoción,10% descuento,Sin promoción,Sin promoción,10% descuento,10% descuento
+ITEM 226,Cinta adhesiva 20 m,Ferretería ligera,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción,Sin promoción
+ITEM 227,Esponja multiuso 10 un,Limpieza del Hogar,15% descuento,15% descuento,2x1,Sin promoción,10% descuento,Sin promoción
+ITEM 228,Foco LED 1.5 W,Ferretería ligera,Sin promoción,15% descuento,15% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 229,Fórmula infantil 200 g,Bebé y Mascotas,15% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 230,Papa a la francesa 500 g,Congelados,Sin promoción,Precio especial,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 231,Pañales etapa 2 un,Bebé y Mascotas,Precio especial,15% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 232,Margarina 500 g,Lácteos y Huevos,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 233,Leche entera 0.5 L,Lácteos y Huevos,20% descuento,Sin promoción,Sin promoción,Sin promoción,15% descuento,20% descuento
+ITEM 234,Papa chola 2 kg,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,10% descuento
+ITEM 235,Mezcla de verduras congeladas 250 g,Congelados,10% descuento,Sin promoción,Sin promoción,Precio especial,Sin promoción,15% descuento
+ITEM 236,Toallas higiénicas 300 un,Higiene y Cuidado Personal,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 237,Chocolate de mesa 250 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 238,Cerveza lata 300 ml,Bebidas,Sin promoción,10% descuento,10% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 239,Crema de leche 900 ml,Lácteos y Huevos,10% descuento,Sin promoción,Precio especial,Sin promoción,Sin promoción,10% descuento
+ITEM 240,Papas fritas 250 g,Snacks y Dulces,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción,Sin promoción
+ITEM 241,Manzana roja 2 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 242,Galleta de avena 900 g,Panadería y Cereales,20% descuento,Sin promoción,Precio especial,2x1,Precio especial,Precio especial
+ITEM 243,Kumis 900 ml,Lácteos y Huevos,Precio especial,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 244,Sardina en aceite 200 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,20% descuento,Sin promoción,20% descuento
+ITEM 245,Arena para gato 0.25 kg,Bebé y Mascotas,15% descuento,15% descuento,Precio especial,Sin promoción,Sin promoción,Sin promoción
+ITEM 246,Pera 3 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,15% descuento
+ITEM 247,Pepino 4 un,Frutas y Verduras,Sin promoción,10% descuento,Sin promoción,Sin promoción,10% descuento,20% descuento
+ITEM 248,Mermelada de fresa 300 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 249,Chuleta de cerdo 0.25 kg,Carnes y Pescados,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 250,Sal yodada 1 kg,Abarrotes,Sin promoción,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 251,Tortillas de trigo 900 g,Panadería y Cereales,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,20% descuento
+ITEM 252,Ajo cabeza 4 un,Frutas y Verduras,10% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 253,Cinta adhesiva 5 m,Ferretería ligera,Combo ahorro,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 254,Galleta rellena 750 g,Snacks y Dulces,Sin promoción,10% descuento,Sin promoción,20% descuento,Sin promoción,15% descuento
+ITEM 255,Zanahoria 4 un,Frutas y Verduras,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 256,Cebolla paiteña 4 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción,Precio especial
+ITEM 257,Miel de abeja 250 g,Abarrotes,Sin promoción,10% descuento,10% descuento,15% descuento,Sin promoción,15% descuento
+ITEM 258,Nachos 200 g,Snacks y Dulces,Sin promoción,2x1,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 259,Naranja 2 un,Frutas y Verduras,Sin promoción,10% descuento,Sin promoción,10% descuento,Sin promoción,20% descuento
+ITEM 260,Margarina 500 g,Lácteos y Huevos,10% descuento,20% descuento,Sin promoción,15% descuento,15% descuento,Sin promoción
+ITEM 261,Aguacate 250 un,Frutas y Verduras,Sin promoción,Precio especial,15% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 262,Ajo cabeza 4 un,Frutas y Verduras,20% descuento,Sin promoción,Sin promoción,10% descuento,10% descuento,Sin promoción
+ITEM 263,Gaseosa cola 750 ml,Bebidas,20% descuento,20% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 264,Pañales etapa 2 un,Bebé y Mascotas,Sin promoción,Sin promoción,10% descuento,Lleve 3 pague 2,Sin promoción,10% descuento
+ITEM 265,Vinagre blanco 750 L,Abarrotes,20% descuento,2x1,Sin promoción,Sin promoción,20% descuento,Sin promoción
+ITEM 266,Detergente en polvo 1 kg,Limpieza del Hogar,Sin promoción,2x1,Sin promoción,Sin promoción,10% descuento,15% descuento
+ITEM 267,Gel de baño 900 ml,Higiene y Cuidado Personal,10% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción,10% descuento
+ITEM 268,Bizcocho 200 g,Panadería y Cereales,Sin promoción,Sin promoción,Sin promoción,2x1,Combo ahorro,Sin promoción
+ITEM 269,Chicle 2 un,Snacks y Dulces,10% descuento,10% descuento,10% descuento,Precio especial,10% descuento,10% descuento
+ITEM 270,Cepillo dental 3 un,Higiene y Cuidado Personal,10% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 271,Manzana roja 3 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,20% descuento
+ITEM 272,Mermelada de fresa 400 g,Abarrotes,Sin promoción,10% descuento,10% descuento,Sin promoción,10% descuento,20% descuento
+ITEM 273,Pepino 3 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 274,Toallas higiénicas 300 un,Higiene y Cuidado Personal,10% descuento,15% descuento,10% descuento,Sin promoción,15% descuento,Sin promoción
+ITEM 275,Guantes de limpieza 10 par,Limpieza del Hogar,10% descuento,10% descuento,20% descuento,Sin promoción,Precio especial,Sin promoción
+ITEM 276,Maíz dulce enlatado 900 g,Abarrotes,Sin promoción,Sin promoción,2x1,15% descuento,Sin promoción,15% descuento
+ITEM 277,Cilantro manojo,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción,20% descuento
+ITEM 278,Kumis 900 ml,Lácteos y Huevos,Sin promoción,15% descuento,20% descuento,Sin promoción,Sin promoción,Lleve 3 pague 2
+ITEM 279,Desinfectante 0.5 L,Limpieza del Hogar,2x1,Sin promoción,Sin promoción,Sin promoción,15% descuento,10% descuento
+ITEM 280,Bebida isotónica 200 ml,Bebidas,Lleve 3 pague 2,Lleve 3 pague 2,10% descuento,15% descuento,20% descuento,Precio especial
+ITEM 281,Pan de molde blanco 300 g,Panadería y Cereales,Sin promoción,10% descuento,Lleve 3 pague 2,Lleve 3 pague 2,10% descuento,Sin promoción
+ITEM 282,Galleta salada 900 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,2x1,Sin promoción,Lleve 3 pague 2
+ITEM 283,Panela granulada 750 g,Abarrotes,20% descuento,Combo ahorro,10% descuento,Sin promoción,10% descuento,10% descuento
+ITEM 284,Azúcar 0.5 kg,Abarrotes,Sin promoción,Sin promoción,Precio especial,15% descuento,10% descuento,20% descuento
+ITEM 285,Palomitas para microondas 400 g,Snacks y Dulces,10% descuento,10% descuento,20% descuento,10% descuento,Sin promoción,Sin promoción
+ITEM 286,Agua con gas 300 L,Bebidas,2x1,10% descuento,Sin promoción,10% descuento,10% descuento,10% descuento
+ITEM 287,Cacao en polvo 300 g,Abarrotes,Sin promoción,10% descuento,15% descuento,Lleve 3 pague 2,10% descuento,Sin promoción
+ITEM 288,Galleta dulce 400 g,Abarrotes,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento
+ITEM 289,Caramelo surtido 300 g,Snacks y Dulces,Sin promoción,Precio especial,2x1,Lleve 3 pague 2,Sin promoción,10% descuento
+ITEM 290,Chuleta de cerdo 0.25 kg,Carnes y Pescados,Precio especial,15% descuento,Sin promoción,20% descuento,Sin promoción,Sin promoción
+ITEM 291,Fórmula infantil 900 g,Bebé y Mascotas,Sin promoción,2x1,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 292,Crema corporal 900 ml,Higiene y Cuidado Personal,Sin promoción,Sin promoción,10% descuento,Lleve 3 pague 2,Combo ahorro,Sin promoción
+ITEM 293,Tomate riñón 20 un,Frutas y Verduras,2x1,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 294,Chocolate barra 750 g,Snacks y Dulces,Lleve 3 pague 2,10% descuento,10% descuento,Lleve 3 pague 2,2x1,10% descuento
+ITEM 295,Leche entera 1 L,Lácteos y Huevos,20% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 296,Arena para gato 0.25 kg,Bebé y Mascotas,2x1,10% descuento,Lleve 3 pague 2,15% descuento,10% descuento,Sin promoción
+ITEM 297,Salsa de ají 750 g,Abarrotes,Sin promoción,15% descuento,15% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 298,Toalla de papel 1 un,Limpieza del Hogar,10% descuento,Precio especial,Sin promoción,2x1,Sin promoción,2x1
+ITEM 299,Mantequilla 900 g,Lácteos y Huevos,Sin promoción,20% descuento,15% descuento,20% descuento,Sin promoción,Sin promoción
+ITEM 300,Sal yodada 1 kg,Abarrotes,Sin promoción,Sin promoción,10% descuento,2x1,10% descuento,Sin promoción
+ITEM 301,Papa chola 2 kg,Frutas y Verduras,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 302,Pechuga de pollo 2 kg,Carnes y Pescados,10% descuento,Sin promoción,Lleve 3 pague 2,10% descuento,Sin promoción,Sin promoción
+ITEM 303,Bolsas basura 1 un,Limpieza del Hogar,Sin promoción,10% descuento,Sin promoción,Precio especial,2x1,Sin promoción
+ITEM 304,Crema de leche 500 ml,Lácteos y Huevos,Sin promoción,Sin promoción,10% descuento,Sin promoción,Combo ahorro,Sin promoción
+ITEM 305,Filete de tilapia 2 kg,Carnes y Pescados,10% descuento,Sin promoción,Lleve 3 pague 2,Sin promoción,10% descuento,15% descuento
+ITEM 306,Leche descremada 0.5 L,Lácteos y Huevos,20% descuento,Sin promoción,20% descuento,2x1,Sin promoción,15% descuento
+ITEM 307,Agua sin gas 400 L,Bebidas,Sin promoción,10% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 308,Granola 300 g,Panadería y Cereales,10% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 309,Mostaza 250 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,2x1,Sin promoción,Sin promoción
+ITEM 310,Suavizante 3 L,Limpieza del Hogar,Sin promoción,2x1,Precio especial,Sin promoción,20% descuento,Sin promoción
+ITEM 311,Perejil manojo,Frutas y Verduras,Sin promoción,Sin promoción,Combo ahorro,Sin promoción,Sin promoción,Sin promoción
+ITEM 312,Maní salado 250 g,Snacks y Dulces,15% descuento,Sin promoción,Sin promoción,Lleve 3 pague 2,10% descuento,20% descuento
+ITEM 313,Comida húmeda perro 500 g,Bebé y Mascotas,10% descuento,Sin promoción,Sin promoción,15% descuento,Sin promoción,Sin promoción
+ITEM 314,Carne molida res 0.25 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción
+ITEM 315,Desodorante roll-on 400 ml,Higiene y Cuidado Personal,Sin promoción,Sin promoción,15% descuento,Precio especial,10% descuento,Sin promoción
+ITEM 316,Detergente líquido 300 L,Limpieza del Hogar,Sin promoción,20% descuento,10% descuento,Sin promoción,Sin promoción,15% descuento
+ITEM 317,Fósforos 1 un,Ferretería ligera,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento
+ITEM 318,Lavavajillas 3 ml,Limpieza del Hogar,15% descuento,10% descuento,Sin promoción,Sin promoción,2x1,Sin promoción
+ITEM 319,Esponja multiuso 5 un,Limpieza del Hogar,2x1,Sin promoción,Sin promoción,2x1,Sin promoción,Sin promoción
+ITEM 320,Limpiavidrios 3 ml,Limpieza del Hogar,Lleve 3 pague 2,Precio especial,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 321,Pera 1 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 322,Alitas de pollo 0.5 kg,Carnes y Pescados,15% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción,15% descuento
+ITEM 323,Fideo spaghetti 400 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,10% descuento,10% descuento,Sin promoción
+ITEM 324,Limón sutil 3 un,Frutas y Verduras,Lleve 3 pague 2,10% descuento,10% descuento,10% descuento,Sin promoción,10% descuento
+ITEM 325,Arroz blanco 0.25 kg,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento,15% descuento
+ITEM 326,Lenteja 2 kg,Abarrotes,Precio especial,Sin promoción,15% descuento,Sin promoción,20% descuento,10% descuento
+ITEM 327,Pan integral 500 g,Panadería y Cereales,2x1,2x1,15% descuento,20% descuento,2x1,Sin promoción
+ITEM 328,Pimiento verde 10 un,Frutas y Verduras,10% descuento,Sin promoción,15% descuento,Sin promoción,Sin promoción,10% descuento
+ITEM 329,Chocolate de mesa 750 g,Abarrotes,15% descuento,Sin promoción,10% descuento,Combo ahorro,2x1,Precio especial
+ITEM 330,Jabón de tocador 250 g,Higiene y Cuidado Personal,15% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción,10% descuento
+ITEM 331,Hamburguesa de res 200 g,Congelados,Sin promoción,2x1,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 332,Tortillas de trigo 500 g,Panadería y Cereales,Sin promoción,Sin promoción,2x1,10% descuento,20% descuento,Sin promoción
+ITEM 333,Queso mozzarella 500 g,Lácteos y Huevos,2x1,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 334,Cerveza lata 500 ml,Bebidas,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,15% descuento,Sin promoción
+ITEM 335,Banano mano 5 un,Frutas y Verduras,Sin promoción,10% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 336,Costilla de res 2 kg,Carnes y Pescados,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Precio especial
+ITEM 337,Toallitas húmedas 5 un,Bebé y Mascotas,Sin promoción,2x1,Sin promoción,Sin promoción,15% descuento,Sin promoción
+ITEM 338,Huevos AA docena,Lácteos y Huevos,10% descuento,Sin promoción,10% descuento,Sin promoción,15% descuento,Sin promoción
+ITEM 339,Cloro 1 L,Limpieza del Hogar,Sin promoción,15% descuento,Lleve 3 pague 2,Sin promoción,Sin promoción,15% descuento
+ITEM 340,Foco LED 1.5 W,Ferretería ligera,Lleve 3 pague 2,15% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 341,Jugo néctar 400 ml,Bebidas,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 342,Papel higiénico 300 un,Higiene y Cuidado Personal,2x1,15% descuento,Precio especial,20% descuento,Precio especial,10% descuento
+ITEM 343,Pilas AAA 4 un,Ferretería ligera,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 344,Papa a la francesa 900 g,Congelados,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 345,Concentrado perro 1 kg,Bebé y Mascotas,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 346,Cereal de maíz 750 g,Panadería y Cereales,Lleve 3 pague 2,Sin promoción,15% descuento,15% descuento,Sin promoción,20% descuento
+ITEM 347,Galleta de avena 500 g,Panadería y Cereales,Sin promoción,15% descuento,Sin promoción,10% descuento,Lleve 3 pague 2,Sin promoción
+ITEM 348,Té listo 1000 ml,Bebidas,Combo ahorro,Sin promoción,10% descuento,10% descuento,Sin promoción,10% descuento
+ITEM 349,Energética 200 ml,Bebidas,Sin promoción,10% descuento,Sin promoción,Sin promoción,10% descuento,15% descuento
+ITEM 350,Café molido 500 g,Abarrotes,2x1,10% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 351,Yogur natural 500 g,Lácteos y Huevos,2x1,Precio especial,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción
+ITEM 352,Brócoli 4 un,Frutas y Verduras,Precio especial,Precio especial,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 353,Trapo microfibra 5 un,Limpieza del Hogar,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,20% descuento
+ITEM 354,Lechuga 200 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Precio especial,Sin promoción,Sin promoción
+ITEM 355,Queso fresco 400 g,Lácteos y Huevos,Precio especial,2x1,10% descuento,Sin promoción,Sin promoción,15% descuento
+ITEM 356,Gaseosa limón 750 ml,Bebidas,Sin promoción,10% descuento,Sin promoción,20% descuento,2x1,Sin promoción
+ITEM 357,Avena 200 g,Abarrotes,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 358,Mezcla de verduras congeladas 900 g,Congelados,Sin promoción,Sin promoción,Sin promoción,Precio especial,10% descuento,Sin promoción
+ITEM 359,Atún en agua 400 g,Abarrotes,2x1,2x1,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 360,Crema dental 250 g,Higiene y Cuidado Personal,Sin promoción,Sin promoción,15% descuento,10% descuento,15% descuento,Sin promoción
+ITEM 361,Protector solar 300 ml,Higiene y Cuidado Personal,10% descuento,10% descuento,Lleve 3 pague 2,15% descuento,Lleve 3 pague 2,2x1
+ITEM 362,Pilas AA 4 un,Ferretería ligera,10% descuento,10% descuento,Sin promoción,15% descuento,Sin promoción,Sin promoción
+ITEM 363,Rasuradora 4 un,Higiene y Cuidado Personal,Lleve 3 pague 2,Sin promoción,Sin promoción,10% descuento,Sin promoción,20% descuento
+ITEM 364,Levadura seca 500 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 365,Garbanzos 2 kg,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 366,Aceite vegetal 200 L,Abarrotes,10% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción,15% descuento
+ITEM 367,Harina de trigo 0.25 kg,Abarrotes,Sin promoción,Combo ahorro,Sin promoción,Precio especial,10% descuento,Sin promoción
+ITEM 368,Camarón mediano 1 kg,Carnes y Pescados,Sin promoción,Sin promoción,15% descuento,10% descuento,10% descuento,15% descuento
+ITEM 369,Nuggets de pollo 400 g,Congelados,Sin promoción,2x1,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 370,Sardina en aceite 750 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 371,Atún fresco 0.25 kg,Carnes y Pescados,20% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 372,Mayonesa 900 g,Abarrotes,Sin promoción,20% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 373,Salsa de tomate 500 g,Abarrotes,10% descuento,Sin promoción,Sin promoción,Combo ahorro,10% descuento,Sin promoción
+ITEM 374,Acondicionador 500 ml,Higiene y Cuidado Personal,Sin promoción,10% descuento,Sin promoción,Sin promoción,Precio especial,Sin promoción
+ITEM 375,Shampoo 300 ml,Higiene y Cuidado Personal,Sin promoción,Sin promoción,20% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 376,Helado vainilla 1.5 L,Congelados,10% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 377,Agua saborizada 200 ml,Bebidas,Lleve 3 pague 2,20% descuento,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción
+ITEM 378,Papas fritas 900 g,Snacks y Dulces,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 379,Limón sutil 1 un,Frutas y Verduras,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción
+ITEM 380,Papa a la francesa 300 g,Congelados,15% descuento,10% descuento,20% descuento,20% descuento,Sin promoción,Sin promoción
+ITEM 381,Perejil manojo,Frutas y Verduras,Sin promoción,20% descuento,Sin promoción,Sin promoción,15% descuento,Sin promoción
+ITEM 382,Agua con gas 300 L,Bebidas,Sin promoción,Sin promoción,10% descuento,10% descuento,Sin promoción,15% descuento
+ITEM 383,Detergente en polvo 0.5 kg,Limpieza del Hogar,Sin promoción,20% descuento,10% descuento,Sin promoción,Sin promoción,10% descuento
+ITEM 384,Cereal de maíz 300 g,Panadería y Cereales,Lleve 3 pague 2,10% descuento,Sin promoción,Precio especial,Sin promoción,10% descuento
+ITEM 385,Alitas de pollo 0.5 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 386,Leche descremada 2 L,Lácteos y Huevos,Sin promoción,10% descuento,Sin promoción,10% descuento,10% descuento,10% descuento
+ITEM 387,Mantequilla 900 g,Lácteos y Huevos,15% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 388,Pechuga de pollo 0.25 kg,Carnes y Pescados,Combo ahorro,15% descuento,10% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 389,Manzana roja 1 un,Frutas y Verduras,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 390,Brócoli 2 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 391,Tortillas de trigo 500 g,Panadería y Cereales,15% descuento,Precio especial,10% descuento,10% descuento,Sin promoción,Sin promoción
+ITEM 392,Cinta adhesiva 5 m,Ferretería ligera,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 393,Galleta dulce 900 g,Abarrotes,Sin promoción,Precio especial,Sin promoción,Sin promoción,Precio especial,Sin promoción
+ITEM 394,Pan de molde blanco 200 g,Panadería y Cereales,20% descuento,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,10% descuento
+ITEM 395,Zanahoria 2 un,Frutas y Verduras,Sin promoción,Sin promoción,Lleve 3 pague 2,Precio especial,Sin promoción,Sin promoción
+ITEM 396,Shampoo 250 ml,Higiene y Cuidado Personal,2x1,Sin promoción,Sin promoción,Sin promoción,10% descuento,Lleve 3 pague 2
+ITEM 397,Detergente líquido 750 L,Limpieza del Hogar,Sin promoción,15% descuento,Sin promoción,20% descuento,Lleve 3 pague 2,Sin promoción
+ITEM 398,Harina de trigo 2 kg,Abarrotes,10% descuento,Sin promoción,15% descuento,10% descuento,Sin promoción,2x1
+ITEM 399,Energética 250 ml,Bebidas,15% descuento,Sin promoción,10% descuento,10% descuento,10% descuento,Precio especial
+ITEM 400,Miel de abeja 400 g,Abarrotes,Lleve 3 pague 2,Sin promoción,Sin promoción,2x1,Precio especial,Sin promoción
+ITEM 401,Té listo 500 ml,Bebidas,Sin promoción,Sin promoción,10% descuento,Sin promoción,20% descuento,15% descuento
+ITEM 402,Café molido 500 g,Abarrotes,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 403,Bebida isotónica 1000 ml,Bebidas,20% descuento,Precio especial,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 404,Cloro 0.5 L,Limpieza del Hogar,Sin promoción,15% descuento,10% descuento,Sin promoción,Sin promoción,15% descuento
+ITEM 405,Camarón mediano 2 kg,Carnes y Pescados,Precio especial,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 406,Gaseosa limón 300 ml,Bebidas,Sin promoción,Sin promoción,2x1,Sin promoción,Lleve 3 pague 2,10% descuento
+ITEM 407,Panela granulada 300 g,Abarrotes,Sin promoción,Sin promoción,10% descuento,2x1,15% descuento,Sin promoción
+ITEM 408,Mermelada de fresa 200 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Precio especial,Sin promoción,Sin promoción
+ITEM 409,Cebolla paiteña 2 un,Frutas y Verduras,Sin promoción,20% descuento,15% descuento,Sin promoción,Sin promoción,20% descuento
+ITEM 410,Crema de leche 300 ml,Lácteos y Huevos,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,10% descuento
+ITEM 411,Agua sin gas 400 L,Bebidas,Sin promoción,10% descuento,20% descuento,Sin promoción,15% descuento,Lleve 3 pague 2
+ITEM 412,Hamburguesa de res 500 g,Congelados,Sin promoción,10% descuento,Sin promoción,2x1,Precio especial,Sin promoción
+ITEM 413,Cilantro manojo,Frutas y Verduras,15% descuento,Sin promoción,Sin promoción,15% descuento,Sin promoción,Sin promoción
+ITEM 414,Pan integral 200 g,Panadería y Cereales,10% descuento,10% descuento,Sin promoción,15% descuento,Sin promoción,Sin promoción
+ITEM 415,Limpiavidrios 1.5 ml,Limpieza del Hogar,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Combo ahorro
+ITEM 416,Ajo cabeza 1 un,Frutas y Verduras,15% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 417,Granola 500 g,Panadería y Cereales,Sin promoción,10% descuento,Lleve 3 pague 2,Sin promoción,10% descuento,20% descuento
+ITEM 418,Maní salado 500 g,Snacks y Dulces,Sin promoción,Precio especial,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 419,Costilla de res 1 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Precio especial,10% descuento
+ITEM 420,Kumis 250 ml,Lácteos y Huevos,Sin promoción,10% descuento,10% descuento,Sin promoción,Lleve 3 pague 2,15% descuento
+ITEM 421,Fósforos 1 un,Ferretería ligera,20% descuento,Sin promoción,10% descuento,Sin promoción,15% descuento,Sin promoción
+ITEM 422,Queso fresco 250 g,Lácteos y Huevos,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Lleve 3 pague 2,10% descuento
+ITEM 423,Cepillo dental 4 un,Higiene y Cuidado Personal,15% descuento,Sin promoción,15% descuento,Sin promoción,Sin promoción,10% descuento
+ITEM 424,Crema dental 900 g,Higiene y Cuidado Personal,10% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 425,Acondicionador 300 ml,Higiene y Cuidado Personal,15% descuento,Sin promoción,15% descuento,Sin promoción,15% descuento,Sin promoción
+ITEM 426,Banano mano 20 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 427,Pilas AA 3 un,Ferretería ligera,Sin promoción,10% descuento,10% descuento,10% descuento,Sin promoción,Sin promoción
+ITEM 428,Mayonesa 900 g,Abarrotes,15% descuento,Sin promoción,10% descuento,Combo ahorro,Sin promoción,Sin promoción
+ITEM 429,Pimiento verde 10 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción,Sin promoción
+ITEM 430,Azúcar 0.5 kg,Abarrotes,Sin promoción,Sin promoción,10% descuento,Sin promoción,Lleve 3 pague 2,15% descuento
+ITEM 431,Fideo spaghetti 250 g,Abarrotes,10% descuento,10% descuento,Sin promoción,Precio especial,20% descuento,20% descuento
+ITEM 432,Sardina en aceite 750 g,Abarrotes,Combo ahorro,15% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 433,Arena para gato 1 kg,Bebé y Mascotas,Lleve 3 pague 2,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 434,Salsa de ají 750 g,Abarrotes,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 435,Toalla de papel 1 un,Limpieza del Hogar,Sin promoción,10% descuento,10% descuento,Sin promoción,Precio especial,Sin promoción
+ITEM 436,Toallitas húmedas 20 un,Bebé y Mascotas,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 437,Gel de baño 400 ml,Higiene y Cuidado Personal,20% descuento,2x1,2x1,Sin promoción,Sin promoción,10% descuento
+ITEM 438,Desodorante roll-on 250 ml,Higiene y Cuidado Personal,Sin promoción,2x1,Sin promoción,10% descuento,10% descuento,Sin promoción
+ITEM 439,Maíz dulce enlatado 250 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 440,Protector solar 200 ml,Higiene y Cuidado Personal,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,15% descuento
+ITEM 441,Chicle 4 un,Snacks y Dulces,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento,2x1
+ITEM 442,Pera 1 un,Frutas y Verduras,Sin promoción,10% descuento,Sin promoción,2x1,Sin promoción,10% descuento
+ITEM 443,Queso mozzarella 750 g,Lácteos y Huevos,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 444,Avena 400 g,Abarrotes,Sin promoción,Sin promoción,20% descuento,Sin promoción,Sin promoción,10% descuento
+ITEM 445,Cacao en polvo 200 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 446,Chocolate de mesa 900 g,Abarrotes,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción,Precio especial
+ITEM 447,Salsa de tomate 900 g,Abarrotes,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 448,Cerveza lata 200 ml,Bebidas,Sin promoción,Sin promoción,Sin promoción,Sin promoción,2x1,10% descuento
+ITEM 449,Huevos AA docena,Lácteos y Huevos,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Sin promoción,20% descuento
+ITEM 450,Naranja 2 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 451,Foco LED 1.5 W,Ferretería ligera,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 452,Atún en agua 900 g,Abarrotes,Sin promoción,20% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 453,Galleta rellena 900 g,Snacks y Dulces,20% descuento,20% descuento,20% descuento,Sin promoción,15% descuento,Sin promoción
+ITEM 454,Lechuga 750 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Precio especial,Sin promoción,10% descuento
+ITEM 455,Pañales etapa 3 un,Bebé y Mascotas,Sin promoción,Sin promoción,Combo ahorro,Sin promoción,Sin promoción,Sin promoción
+ITEM 456,Mezcla de verduras congeladas 500 g,Congelados,Sin promoción,Sin promoción,Sin promoción,2x1,Sin promoción,Sin promoción
+ITEM 457,Concentrado perro 0.25 kg,Bebé y Mascotas,Sin promoción,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción,15% descuento
+ITEM 458,Lenteja 2 kg,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Combo ahorro
+ITEM 459,Bizcocho 500 g,Panadería y Cereales,Sin promoción,10% descuento,Lleve 3 pague 2,Sin promoción,Sin promoción,20% descuento
+ITEM 460,Toallas higiénicas 900 un,Higiene y Cuidado Personal,Sin promoción,15% descuento,2x1,Sin promoción,10% descuento,Sin promoción
+ITEM 461,Desinfectante 1 L,Limpieza del Hogar,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción,20% descuento
+ITEM 462,Nachos 750 g,Snacks y Dulces,10% descuento,Precio especial,Sin promoción,Sin promoción,10% descuento,15% descuento
+ITEM 463,Helado vainilla 3 L,Congelados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 464,Jugo néctar 250 ml,Bebidas,Sin promoción,Lleve 3 pague 2,Lleve 3 pague 2,20% descuento,20% descuento,10% descuento
+ITEM 465,Papa chola 0.25 kg,Frutas y Verduras,Sin promoción,10% descuento,15% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 466,Chuleta de cerdo 0.25 kg,Carnes y Pescados,Sin promoción,10% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 467,Suavizante 0.5 L,Limpieza del Hogar,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 468,Galleta salada 250 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento,15% descuento
+ITEM 469,Filete de tilapia 1 kg,Carnes y Pescados,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 470,Crema corporal 200 ml,Higiene y Cuidado Personal,20% descuento,Sin promoción,Sin promoción,Precio especial,15% descuento,10% descuento
+ITEM 471,Aguacate 400 un,Frutas y Verduras,15% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 472,Comida húmeda perro 900 g,Bebé y Mascotas,20% descuento,20% descuento,15% descuento,Sin promoción,Lleve 3 pague 2,Sin promoción
+ITEM 473,Bolsas basura 2 un,Limpieza del Hogar,Sin promoción,10% descuento,10% descuento,10% descuento,15% descuento,20% descuento
+ITEM 474,Jabón de tocador 750 g,Higiene y Cuidado Personal,Sin promoción,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción
+ITEM 475,Margarina 500 g,Lácteos y Huevos,Sin promoción,Sin promoción,Combo ahorro,Sin promoción,Sin promoción,Sin promoción
+ITEM 476,Fórmula infantil 750 g,Bebé y Mascotas,2x1,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción,Precio especial
+ITEM 477,Palomitas para microondas 300 g,Snacks y Dulces,10% descuento,10% descuento,Lleve 3 pague 2,Sin promoción,Sin promoción,Precio especial
+ITEM 478,Arroz blanco 1 kg,Abarrotes,Sin promoción,Sin promoción,10% descuento,Precio especial,Sin promoción,15% descuento
+ITEM 479,Vinagre blanco 200 L,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Precio especial,Sin promoción,Sin promoción
+ITEM 480,Caramelo surtido 900 g,Snacks y Dulces,10% descuento,Sin promoción,10% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 481,Rasuradora 3 un,Higiene y Cuidado Personal,20% descuento,Lleve 3 pague 2,Sin promoción,Sin promoción,2x1,Sin promoción
+ITEM 482,Nuggets de pollo 900 g,Congelados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 483,Trapo microfibra 20 un,Limpieza del Hogar,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 484,Gaseosa cola 500 ml,Bebidas,Sin promoción,Sin promoción,20% descuento,Sin promoción,Sin promoción,10% descuento
+ITEM 485,Carne molida res 0.5 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,2x1,Sin promoción,2x1
+ITEM 486,Agua saborizada 200 ml,Bebidas,Sin promoción,Sin promoción,10% descuento,Sin promoción,15% descuento,Sin promoción
+ITEM 487,Papas fritas 200 g,Snacks y Dulces,Lleve 3 pague 2,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 488,Pilas AAA 3 un,Ferretería ligera,Sin promoción,10% descuento,20% descuento,Sin promoción,2x1,Lleve 3 pague 2
+ITEM 489,Garbanzos 0.25 kg,Abarrotes,20% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 490,Tomate riñón 5 un,Frutas y Verduras,Sin promoción,20% descuento,Sin promoción,2x1,Sin promoción,Sin promoción
+ITEM 491,Papel higiénico 900 un,Higiene y Cuidado Personal,20% descuento,Sin promoción,10% descuento,2x1,Sin promoción,2x1
+ITEM 492,Pepino 3 un,Frutas y Verduras,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 493,Guantes de limpieza 20 par,Limpieza del Hogar,2x1,20% descuento,20% descuento,20% descuento,15% descuento,10% descuento
+ITEM 494,Atún fresco 0.25 kg,Carnes y Pescados,10% descuento,Sin promoción,Sin promoción,20% descuento,Sin promoción,Sin promoción
+ITEM 495,Chocolate barra 300 g,Snacks y Dulces,Sin promoción,Precio especial,Sin promoción,Sin promoción,Sin promoción,Precio especial
+ITEM 496,Sal yodada 0.5 kg,Abarrotes,Sin promoción,Sin promoción,15% descuento,15% descuento,15% descuento,10% descuento
+ITEM 497,Yogur natural 250 g,Lácteos y Huevos,Sin promoción,Combo ahorro,15% descuento,Sin promoción,15% descuento,15% descuento
+ITEM 498,Esponja multiuso 5 un,Limpieza del Hogar,Sin promoción,10% descuento,20% descuento,Sin promoción,2x1,10% descuento
+ITEM 499,Aceite vegetal 500 L,Abarrotes,Sin promoción,Sin promoción,10% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 500,Mostaza 200 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción,10% descuento
+ITEM 501,Galleta de avena 400 g,Panadería y Cereales,Combo ahorro,Sin promoción,Sin promoción,15% descuento,10% descuento,Sin promoción
+ITEM 502,Lavavajillas 0.5 ml,Limpieza del Hogar,Sin promoción,Sin promoción,20% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 503,Leche entera 1.5 L,Lácteos y Huevos,Precio especial,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 504,Levadura seca 750 g,Abarrotes,20% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Combo ahorro
+ITEM 505,Lavavajillas 1.5 ml,Limpieza del Hogar,Sin promoción,10% descuento,Sin promoción,Sin promoción,20% descuento,2x1
+ITEM 506,Naranja 4 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,20% descuento,2x1,20% descuento
+ITEM 507,Té listo 200 ml,Bebidas,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 508,Palomitas para microondas 300 g,Snacks y Dulces,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Lleve 3 pague 2
+ITEM 509,Salsa de ají 250 g,Abarrotes,10% descuento,20% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 510,Gaseosa cola 400 ml,Bebidas,2x1,20% descuento,20% descuento,Sin promoción,Sin promoción,10% descuento
+ITEM 511,Arroz blanco 0.25 kg,Abarrotes,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 512,Pilas AAA 4 un,Ferretería ligera,20% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 513,Galleta salada 300 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción
+ITEM 514,Cereal de maíz 750 g,Panadería y Cereales,Sin promoción,Sin promoción,2x1,Sin promoción,10% descuento,Sin promoción
+ITEM 515,Azúcar 2 kg,Abarrotes,10% descuento,20% descuento,2x1,Sin promoción,15% descuento,Sin promoción
+ITEM 516,Limpiavidrios 3 ml,Limpieza del Hogar,2x1,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 517,Alitas de pollo 0.25 kg,Carnes y Pescados,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 518,Cepillo dental 3 un,Higiene y Cuidado Personal,Sin promoción,Sin promoción,Sin promoción,10% descuento,10% descuento,Sin promoción
+ITEM 519,Mayonesa 400 g,Abarrotes,Sin promoción,15% descuento,Precio especial,Sin promoción,Sin promoción,Sin promoción
+ITEM 520,Concentrado perro 2 kg,Bebé y Mascotas,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 521,Limón sutil 1 un,Frutas y Verduras,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,10% descuento
+ITEM 522,Nuggets de pollo 300 g,Congelados,Sin promoción,Sin promoción,20% descuento,10% descuento,Sin promoción,Sin promoción
+ITEM 523,Queso fresco 400 g,Lácteos y Huevos,10% descuento,Sin promoción,Sin promoción,20% descuento,Sin promoción,Sin promoción
+ITEM 524,Levadura seca 250 g,Abarrotes,Sin promoción,10% descuento,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción
+ITEM 525,Mostaza 500 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,20% descuento,Sin promoción,15% descuento
+ITEM 526,Protector solar 750 ml,Higiene y Cuidado Personal,10% descuento,15% descuento,2x1,10% descuento,Sin promoción,15% descuento
+ITEM 527,Chocolate barra 200 g,Snacks y Dulces,Sin promoción,Precio especial,10% descuento,Sin promoción,Sin promoción,Precio especial
+ITEM 528,Cebolla paiteña 3 un,Frutas y Verduras,2x1,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 529,Chicle 1 un,Snacks y Dulces,Sin promoción,Sin promoción,20% descuento,Sin promoción,Lleve 3 pague 2,Sin promoción
+ITEM 530,Yogur natural 400 g,Lácteos y Huevos,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 531,Fórmula infantil 500 g,Bebé y Mascotas,15% descuento,2x1,Sin promoción,10% descuento,Sin promoción,15% descuento
+ITEM 532,Papel higiénico 300 un,Higiene y Cuidado Personal,Sin promoción,Sin promoción,15% descuento,20% descuento,Sin promoción,10% descuento
+ITEM 533,Manzana roja 3 un,Frutas y Verduras,10% descuento,2x1,Precio especial,Sin promoción,10% descuento,15% descuento
+ITEM 534,Toallas higiénicas 400 un,Higiene y Cuidado Personal,15% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 535,Crema de leche 400 ml,Lácteos y Huevos,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 536,Cinta adhesiva 10 m,Ferretería ligera,Sin promoción,Sin promoción,Sin promoción,20% descuento,Lleve 3 pague 2,10% descuento
+ITEM 537,Maní salado 250 g,Snacks y Dulces,2x1,Sin promoción,10% descuento,Lleve 3 pague 2,Sin promoción,15% descuento
+ITEM 538,Mezcla de verduras congeladas 500 g,Congelados,15% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 539,Chuleta de cerdo 1 kg,Carnes y Pescados,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 540,Pilas AA 4 un,Ferretería ligera,Sin promoción,2x1,20% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 541,Jabón de tocador 500 g,Higiene y Cuidado Personal,20% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento,15% descuento
+ITEM 542,Sardina en aceite 300 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 543,Kumis 750 ml,Lácteos y Huevos,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 544,Margarina 250 g,Lácteos y Huevos,15% descuento,Sin promoción,Sin promoción,15% descuento,Sin promoción,20% descuento
+ITEM 545,Filete de tilapia 0.25 kg,Carnes y Pescados,Sin promoción,Sin promoción,20% descuento,10% descuento,Lleve 3 pague 2,Sin promoción
+ITEM 546,Leche entera 0.5 L,Lácteos y Huevos,Sin promoción,2x1,15% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 547,Papas fritas 900 g,Snacks y Dulces,10% descuento,Precio especial,Sin promoción,Sin promoción,2x1,Sin promoción
+ITEM 548,Brócoli 1 un,Frutas y Verduras,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,15% descuento
+ITEM 549,Sal yodada 2 kg,Abarrotes,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción,10% descuento
+ITEM 550,Papa a la francesa 300 g,Congelados,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 551,Crema corporal 400 ml,Higiene y Cuidado Personal,Lleve 3 pague 2,2x1,10% descuento,Sin promoción,20% descuento,10% descuento
+ITEM 552,Granola 200 g,Panadería y Cereales,15% descuento,10% descuento,10% descuento,Sin promoción,Sin promoción,10% descuento
+ITEM 553,Cacao en polvo 900 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,15% descuento
+ITEM 554,Aguacate 500 un,Frutas y Verduras,10% descuento,Sin promoción,Precio especial,Sin promoción,Sin promoción,Sin promoción
+ITEM 555,Chocolate de mesa 250 g,Abarrotes,15% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 556,Vinagre blanco 500 L,Abarrotes,Sin promoción,20% descuento,Sin promoción,10% descuento,Lleve 3 pague 2,2x1
+ITEM 557,Galleta rellena 250 g,Snacks y Dulces,Lleve 3 pague 2,10% descuento,Sin promoción,10% descuento,10% descuento,10% descuento
+ITEM 558,Mermelada de fresa 300 g,Abarrotes,Sin promoción,Sin promoción,10% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 559,Cerveza lata 400 ml,Bebidas,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,20% descuento
+ITEM 560,Papa chola 1 kg,Frutas y Verduras,Sin promoción,15% descuento,Sin promoción,Sin promoción,10% descuento,15% descuento
+ITEM 561,Huevos AA docena,Lácteos y Huevos,Sin promoción,Combo ahorro,Sin promoción,10% descuento,Sin promoción,Lleve 3 pague 2
+ITEM 562,Acondicionador 200 ml,Higiene y Cuidado Personal,10% descuento,20% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 563,Miel de abeja 250 g,Abarrotes,20% descuento,Sin promoción,2x1,Combo ahorro,Sin promoción,10% descuento
+ITEM 564,Agua con gas 300 L,Bebidas,Sin promoción,15% descuento,Sin promoción,Lleve 3 pague 2,15% descuento,Combo ahorro
+ITEM 565,Bolsas basura 1 un,Limpieza del Hogar,Lleve 3 pague 2,Sin promoción,Lleve 3 pague 2,10% descuento,Sin promoción,2x1
+ITEM 566,Perejil manojo,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 567,Garbanzos 0.5 kg,Abarrotes,Sin promoción,Sin promoción,10% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 568,Desinfectante 0.5 L,Limpieza del Hogar,Sin promoción,10% descuento,Sin promoción,Lleve 3 pague 2,10% descuento,Sin promoción
+ITEM 569,Agua saborizada 200 ml,Bebidas,10% descuento,2x1,Sin promoción,20% descuento,Precio especial,15% descuento
+ITEM 570,Harina de trigo 0.5 kg,Abarrotes,15% descuento,Sin promoción,Sin promoción,15% descuento,Sin promoción,Sin promoción
+ITEM 571,Crema dental 500 g,Higiene y Cuidado Personal,15% descuento,10% descuento,20% descuento,Sin promoción,Lleve 3 pague 2,15% descuento
+ITEM 572,Guantes de limpieza 5 par,Limpieza del Hogar,Sin promoción,Sin promoción,10% descuento,Sin promoción,20% descuento,10% descuento
+ITEM 573,Bizcocho 900 g,Panadería y Cereales,Sin promoción,Sin promoción,Sin promoción,Precio especial,2x1,Sin promoción
+ITEM 574,Esponja multiuso 20 un,Limpieza del Hogar,Sin promoción,15% descuento,Sin promoción,Sin promoción,10% descuento,10% descuento
+ITEM 575,Ajo cabeza 4 un,Frutas y Verduras,20% descuento,Sin promoción,20% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 576,Caramelo surtido 250 g,Snacks y Dulces,10% descuento,Sin promoción,Precio especial,Sin promoción,10% descuento,Sin promoción
+ITEM 577,Pimiento verde 5 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento
+ITEM 578,Gaseosa limón 500 ml,Bebidas,Sin promoción,Sin promoción,Sin promoción,20% descuento,15% descuento,10% descuento
+ITEM 579,Fideo spaghetti 900 g,Abarrotes,15% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 580,Trapo microfibra 5 un,Limpieza del Hogar,Sin promoción,Sin promoción,Sin promoción,Sin promoción,2x1,15% descuento
+ITEM 581,Pan integral 400 g,Panadería y Cereales,10% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción,Combo ahorro
+ITEM 582,Queso mozzarella 200 g,Lácteos y Huevos,Sin promoción,15% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 583,Pan de molde blanco 750 g,Panadería y Cereales,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 584,Hamburguesa de res 900 g,Congelados,Sin promoción,10% descuento,Sin promoción,Sin promoción,20% descuento,Sin promoción
+ITEM 585,Avena 300 g,Abarrotes,2x1,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento
+ITEM 586,Agua sin gas 900 L,Bebidas,10% descuento,Lleve 3 pague 2,Sin promoción,Precio especial,10% descuento,10% descuento
+ITEM 587,Helado vainilla 1 L,Congelados,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 588,Pepino 4 un,Frutas y Verduras,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 589,Mantequilla 250 g,Lácteos y Huevos,Sin promoción,10% descuento,10% descuento,Lleve 3 pague 2,15% descuento,10% descuento
+ITEM 590,Shampoo 300 ml,Higiene y Cuidado Personal,Sin promoción,2x1,10% descuento,Sin promoción,15% descuento,10% descuento
+ITEM 591,Detergente en polvo 1 kg,Limpieza del Hogar,Sin promoción,20% descuento,Sin promoción,Sin promoción,10% descuento,15% descuento
+ITEM 592,Jugo néctar 300 ml,Bebidas,10% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 593,Tortillas de trigo 300 g,Panadería y Cereales,Sin promoción,Sin promoción,10% descuento,15% descuento,Sin promoción,Sin promoción
+ITEM 594,Lenteja 0.25 kg,Abarrotes,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción,2x1
+ITEM 595,Atún fresco 0.25 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción,Sin promoción
+ITEM 596,Fósforos 3 un,Ferretería ligera,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 597,Café molido 300 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,15% descuento,2x1
+ITEM 598,Banano mano 5 un,Frutas y Verduras,15% descuento,20% descuento,20% descuento,Sin promoción,Sin promoción,10% descuento
+ITEM 599,Arena para gato 0.25 kg,Bebé y Mascotas,10% descuento,10% descuento,2x1,Sin promoción,Sin promoción,Sin promoción
+ITEM 600,Galleta dulce 200 g,Abarrotes,Sin promoción,20% descuento,20% descuento,20% descuento,Sin promoción,Sin promoción
+ITEM 601,Rasuradora 1 un,Higiene y Cuidado Personal,Sin promoción,Sin promoción,Sin promoción,Precio especial,Sin promoción,Sin promoción
+ITEM 602,Energética 250 ml,Bebidas,Precio especial,Sin promoción,Sin promoción,10% descuento,20% descuento,Sin promoción
+ITEM 603,Tomate riñón 10 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,Precio especial
+ITEM 604,Galleta de avena 250 g,Panadería y Cereales,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 605,Camarón mediano 0.25 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,2x1,Sin promoción,10% descuento
+ITEM 606,Atún en agua 900 g,Abarrotes,Sin promoción,Sin promoción,10% descuento,2x1,Sin promoción,10% descuento
+ITEM 607,Carne molida res 2 kg,Carnes y Pescados,Sin promoción,Sin promoción,10% descuento,Sin promoción,20% descuento,Sin promoción
+ITEM 608,Leche descremada 1.5 L,Lácteos y Huevos,Precio especial,Sin promoción,2x1,10% descuento,Sin promoción,Sin promoción
+ITEM 609,Toalla de papel 4 un,Limpieza del Hogar,Sin promoción,10% descuento,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 610,Cilantro manojo,Frutas y Verduras,Sin promoción,Sin promoción,Precio especial,10% descuento,Sin promoción,15% descuento
+ITEM 611,Maíz dulce enlatado 900 g,Abarrotes,10% descuento,10% descuento,Combo ahorro,Sin promoción,Sin promoción,10% descuento
+ITEM 612,Cloro 2 L,Limpieza del Hogar,10% descuento,Sin promoción,Sin promoción,Sin promoción,2x1,Sin promoción
+ITEM 613,Panela granulada 250 g,Abarrotes,Sin promoción,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,20% descuento
+ITEM 614,Pera 2 un,Frutas y Verduras,15% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 615,Lechuga 500 un,Frutas y Verduras,10% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 616,Toallitas húmedas 20 un,Bebé y Mascotas,Sin promoción,10% descuento,Sin promoción,10% descuento,Sin promoción,10% descuento
+ITEM 617,Pañales etapa 3 un,Bebé y Mascotas,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 618,Aceite vegetal 750 L,Abarrotes,20% descuento,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 619,Costilla de res 0.25 kg,Carnes y Pescados,Sin promoción,Precio especial,20% descuento,Sin promoción,10% descuento,10% descuento
+ITEM 620,Desodorante roll-on 250 ml,Higiene y Cuidado Personal,2x1,Sin promoción,Sin promoción,Sin promoción,20% descuento,20% descuento
+ITEM 621,Salsa de tomate 750 g,Abarrotes,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción
+ITEM 622,Gel de baño 200 ml,Higiene y Cuidado Personal,Sin promoción,Sin promoción,10% descuento,Sin promoción,10% descuento,20% descuento
+ITEM 623,Suavizante 3 L,Limpieza del Hogar,20% descuento,10% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 624,Foco LED 3 W,Ferretería ligera,20% descuento,Sin promoción,Sin promoción,Sin promoción,15% descuento,Sin promoción
+ITEM 625,Comida húmeda perro 200 g,Bebé y Mascotas,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Precio especial
+ITEM 626,Nachos 500 g,Snacks y Dulces,Sin promoción,Lleve 3 pague 2,10% descuento,10% descuento,Sin promoción,Sin promoción
+ITEM 627,Detergente líquido 200 L,Limpieza del Hogar,15% descuento,10% descuento,Precio especial,10% descuento,Sin promoción,Sin promoción
+ITEM 628,Bebida isotónica 250 ml,Bebidas,Sin promoción,2x1,15% descuento,10% descuento,Precio especial,15% descuento
+ITEM 629,Zanahoria 3 un,Frutas y Verduras,Sin promoción,Precio especial,10% descuento,Sin promoción,15% descuento,Sin promoción
+ITEM 630,Pechuga de pollo 0.25 kg,Carnes y Pescados,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 631,Pilas AA 1 un,Ferretería ligera,10% descuento,Combo ahorro,Sin promoción,20% descuento,Sin promoción,15% descuento
+ITEM 632,Chuleta de cerdo 0.25 kg,Carnes y Pescados,20% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,Sin promoción
+ITEM 633,Tortillas de trigo 200 g,Panadería y Cereales,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción,15% descuento
+ITEM 634,Limón sutil 2 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción,Sin promoción
+ITEM 635,Manzana roja 4 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Lleve 3 pague 2,20% descuento,20% descuento
+ITEM 636,Margarina 400 g,Lácteos y Huevos,Sin promoción,Sin promoción,Sin promoción,10% descuento,Sin promoción,Precio especial
+ITEM 637,Bolsas basura 3 un,Limpieza del Hogar,10% descuento,Sin promoción,10% descuento,2x1,Lleve 3 pague 2,Sin promoción
+ITEM 638,Lenteja 2 kg,Abarrotes,10% descuento,Sin promoción,Sin promoción,Sin promoción,Sin promoción,10% descuento
+ITEM 639,Tomate riñón 20 un,Frutas y Verduras,Lleve 3 pague 2,Sin promoción,Sin promoción,Sin promoción,Sin promoción,20% descuento
+ITEM 640,Bebida isotónica 750 ml,Bebidas,Sin promoción,Sin promoción,2x1,Sin promoción,15% descuento,Sin promoción
+ITEM 641,Avena 750 g,Abarrotes,Sin promoción,20% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 642,Pepino 3 un,Frutas y Verduras,Sin promoción,Sin promoción,20% descuento,Precio especial,Sin promoción,10% descuento
+ITEM 643,Harina de trigo 0.5 kg,Abarrotes,Sin promoción,15% descuento,10% descuento,Sin promoción,Sin promoción,20% descuento
+ITEM 644,Bizcocho 900 g,Panadería y Cereales,Sin promoción,15% descuento,10% descuento,20% descuento,15% descuento,15% descuento
+ITEM 645,Cilantro manojo,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Precio especial,Sin promoción,Sin promoción
+ITEM 646,Salsa de tomate 400 g,Abarrotes,15% descuento,10% descuento,2x1,15% descuento,Sin promoción,Sin promoción
+ITEM 647,Lechuga 900 un,Frutas y Verduras,Sin promoción,Sin promoción,Sin promoción,Precio especial,10% descuento,Sin promoción
+ITEM 648,Huevos AA docena,Lácteos y Huevos,10% descuento,Sin promoción,Sin promoción,Sin promoción,10% descuento,2x1
+ITEM 649,Pañales etapa 4 un,Bebé y Mascotas,10% descuento,Sin promoción,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 650,Perejil manojo,Frutas y Verduras,15% descuento,Sin promoción,Sin promoción,10% descuento,20% descuento,Lleve 3 pague 2
+ITEM 651,Mantequilla 250 g,Lácteos y Huevos,Sin promoción,15% descuento,15% descuento,10% descuento,20% descuento,10% descuento
+ITEM 652,Nuggets de pollo 750 g,Congelados,10% descuento,2x1,Precio especial,Sin promoción,Sin promoción,Combo ahorro
+ITEM 653,Vinagre blanco 500 L,Abarrotes,Precio especial,15% descuento,10% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 654,Energética 750 ml,Bebidas,Precio especial,Sin promoción,Combo ahorro,Sin promoción,Lleve 3 pague 2,10% descuento
+ITEM 655,Galleta dulce 400 g,Abarrotes,Precio especial,Lleve 3 pague 2,10% descuento,Sin promoción,Precio especial,Sin promoción
+ITEM 656,Kumis 200 ml,Lácteos y Huevos,20% descuento,Lleve 3 pague 2,Sin promoción,Combo ahorro,Sin promoción,Sin promoción
+ITEM 657,Fideo spaghetti 200 g,Abarrotes,20% descuento,Sin promoción,15% descuento,Sin promoción,Sin promoción,Sin promoción
+ITEM 658,Atún fresco 0.5 kg,Carnes y Pescados,Sin promoción,10% descuento,10% descuento,Sin promoción,10% descuento,Sin promoción
+ITEM 659,Garbanzos 0.5 kg,Abarrotes,10% descuento,10% descuento,Sin promoción,Sin promoción,Lleve 3 pague 2,Sin promoción
+ITEM 660,Brócoli 1 un,Frutas y Verduras,Sin promoción,20% descuento,15% descuento,Sin promoción,15% descuento,Precio especial
